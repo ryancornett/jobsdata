@@ -1,851 +1,1481 @@
 {
-  "updated": "2/2/2026",
+  "updated": "2/9/2026",
   "data": [
   {
     "Job Title": "Registered Nurse � Intensive Care - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "AMN Healthcare",
-    "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3440839/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "ICU/CCU Registered Nurse",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "MedPro Healthcare Staffing",
-    "Wage": "0",
-    "Url": "https://jobs.medprostaffing.com/jobs/icuccu-registered-nurse-prestonsburg-kentucky/a0Fcx00000CqIy2EAF/show",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Registered Nurse � Rehabilitation",
     "Location": "Hazard, Kentucky",
     "Employer": "AMN Healthcare",
     "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3440822/",
+    "Url": "https://www.nursefinders.com/job-details/3444418/",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "ICU/CCU Registered Nurse",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "MedPro Healthcare Staffing",
+    "Job Title": "Registered Nurse � Telemetry",
+    "Location": "Hazard, Kentucky",
+    "Employer": "AMN Healthcare",
     "Wage": "0",
-    "Url": "https://jobs.medprostaffing.com/jobs/icuccu-registered-nurse-prestonsburg-kentucky/a0Fcx00000ChW5mEAF/show",
+    "Url": "https://www.nursefinders.com/job-details/3443013/",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Surgical Technologist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "MedPro Healthcare Staffing",
-    "Wage": "0",
-    "Url": "https://jobs.medprostaffing.com/jobs/surgical-technologist-prestonsburg-kentucky/a0Fcx00000CB7H0EAL/show",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
   },
   {
     "Job Title": "Registered Nurse � Intensive Care - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "AMN Healthcare",
-    "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3440317/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Surgical Technologist - Operating Room",
-    "Location": "Jackson, Kentucky",
-    "Employer": "AMN Healthcare",
-    "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3439640/",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Registered Nurse � Progressive Care",
     "Location": "Hazard, Kentucky",
     "Employer": "AMN Healthcare",
     "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3439265/",
+    "Url": "https://www.nursefinders.com/job-details/3444530/",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Registered Nurse � Perioperative Nurse - Operating Room",
-    "Location": "Jackson, Kentucky",
-    "Employer": "AMN Healthcare",
-    "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3439642/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Registered Nurse - First Assistant",
-    "Location": "Jackson, Kentucky",
-    "Employer": "AMN Healthcare",
-    "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3439639/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Acute Rehabilitation Registered Nurse",
+    "Job Title": "Telemetry Registered Nurse",
     "Location": "Hazard, Kentucky",
     "Employer": "MedPro Healthcare Staffing",
     "Wage": "0",
-    "Url": "https://jobs.medprostaffing.com/jobs/acute-rehabilitation-registered-nurse-hazard-kentucky/a0Fcx00000CqIjWEAV/show",
+    "Url": "https://jobs.medprostaffing.com/jobs/telemetry-registered-nurse-hazard-kentucky/a0Fcx00000DI8inEAD/show",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Surgical Technologist - Operating Room",
+    "Job Title": "Cath Lab Technologist",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/cath-lab-technologist-hazard-kentucky/a0Fcx00000Dbc3dEAB/show",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Telemetry Registered Nurse",
     "Location": "Prestonsburg, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/telemetry-registered-nurse-prestonsburg-kentucky/a0Fcx00000DlBoXEAV/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "ICU/CCU Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/icuccu-registered-nurse-hazard-kentucky/a0Fcx00000DfaXvEAJ/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse � Telemetry",
+    "Location": "Hazard, Kentucky",
     "Employer": "AMN Healthcare",
     "Wage": "0",
-    "Url": "https://www.nursefinders.com/job-details/3439976/",
+    "Url": "https://www.nursefinders.com/job-details/3443012/",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "A Facility in Kentucky Is Searching for a Locum Tenens Obstetrics Gynecologist",
+    "Job Title": "ICU/CCU Registered Nurse",
     "Location": "Hazard, Kentucky",
-    "Employer": "Global Medical Staffing",
+    "Employer": "MedPro Healthcare Staffing",
     "Wage": "0",
-    "Url": "https://www.healthecareers.com/job/a-facility-in-kentucky-is-searching-for-a-locum-tenens-obstetrics-gynecologist/13025414",
-    "Occupation Name": "Obstetricians and Gynecologists",
-    "SOC": "29-1218.00"
-  },
-  {
-    "Job Title": "RN - Orthopedics",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Talent4Health LLC",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Talent/job-details-view/17769460",
+    "Url": "https://jobs.medprostaffing.com/jobs/icuccu-registered-nurse-hazard-kentucky/a0Fcx00000DbhUkEAJ/show",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Medical/Surgical Telemetry Registered Nurse",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "GQR Healthcare",
+    "Job Title": "Telemetry Registered Nurse",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/1022-774581",
+    "Url": "https://jobs.medprostaffing.com/jobs/telemetry-registered-nurse-prestonsburg-kentucky/a0Fcx00000Dl4f0EAB/show",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Automotive Technician",
-    "Location": "Jacksboro, KY",
-    "Employer": "Express Employment Professionals",
-    "Wage": "$32,301",
-    "Url": "https://jobs.expresspros.com/job/details?jobControlNum=14506977",
-    "Occupation Name": "Automotive Service Technicians and Mechanics",
-    "SOC": "49-3023.00"
+    "Job Title": "Step Down Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/step-down-registered-nurse-hazard-kentucky/a0Fcx00000Dbc21EAB/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Certified Nursing Assistant ( CNA ) PRN",
-    "Location": "19101 US-119 North, Cumberland, KY, 40823",
-    "Employer": "Venza Care Management LLC",
-    "Wage": "$28,080",
-    "Url": "https://jobs.chattr.ai/venzacare/49af1a8f-eb0d-45db-8666-ff4c9cb5e0d1",
+    "Job Title": "ICU/CCU Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/icuccu-registered-nurse-hazard-kentucky/a0Fcx00000Dc99FEAR/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Cath Lab Technologist",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Med Travelers",
+    "Wage": "0",
+    "Url": "https://www.nursefinders.com/job-details/3444321/",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Step Down Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/step-down-registered-nurse-hazard-kentucky/a0Fcx00000DbCE2EAN/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse � Intensive Care - ICU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "AMN Healthcare",
+    "Wage": "0",
+    "Url": "https://www.nursefinders.com/job-details/3445116/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "ICU RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Aequor Healthcare Services",
+    "Wage": "0",
+    "Url": "https://work.aequor.com/job/icu-rn-in-pikeville-ky-6770980",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Psychiatric",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Bold Steps Behavioral Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369852258/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Phlebotomist II",
+    "Location": "London, Kentucky",
+    "Employer": "Quest Diagnostics",
+    "Wage": "$39,354",
+    "Url": "https://www.linkedin.com/jobs/view/4361009966/",
+    "Occupation Name": "Phlebotomists",
+    "SOC": "31-9097.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Telemetry",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Clinic Service Corporation",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369898328/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - ICU",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Northshore Home Health Care",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4370008112/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Medical Surgical",
+    "Location": "Hyden, Kentucky",
+    "Employer": "Plan A Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369864193/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Telemetry - Weekly Pay",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Affinity Home Health Care Inc",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369862079/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Medical Surgical/Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Clinic Service Corporation",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369848303/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Telemetry - $2,362 per week",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Malone Healthcare Solutions",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369992708/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Cardiac Cath Lab",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Seacrest Behavioral Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369850341/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier I",
+    "Location": "Hazard, KY 41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37039/registered-nurse-tier-i/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Cardiac Cath Lab",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fairview Hospital / Cleveland Clinic",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369862156/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - ICU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "ACCESS HEALTH",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369851527/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier I",
+    "Location": "Hazard, KY 41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37038/registered-nurse-tier-i/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Long Term Acute Care Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/long-term-acute-care-registered-nurse-hazard-kentucky/a0Fcx00000Dbc5FEAR/show",
+    "Occupation Name": "Acute Care Nurses",
+    "SOC": "29-1141.01"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Medical Surgical Orthopedics",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Aura Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369847535/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Telemetry - Weekly Pay",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Proforma Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369857089/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Dialysis Patient Care Technician-PCT",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Dialysis Clinic, Inc.",
+    "Wage": "$36,400",
+    "Url": "https://www.linkedin.com/jobs/view/4369875243/",
+    "Occupation Name": "Health Technologists and Technicians, All Other",
+    "SOC": "29-2099.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Operating Room",
+    "Location": "Manchester, Kentucky",
+    "Employer": "Health Marketing",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369898357/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - CCU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Medical Office Force",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369899230/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Operating Room",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "DayToDay Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369890618/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - Medical Surgical/Telemetry - Weekly Pay",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Medical Office Force",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369849242/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Operating Room",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Apex Home Health, Hospice & Home Care",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369860245/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Operating Room - Weekly Pay",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "The VIOS Clinic",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369860151/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Medical Surgical",
+    "Location": "McDowell, KY",
+    "Employer": "Plan A Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369851547/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - ICU",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Personal Touch Home Health Care Services Inc.",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369839930/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse - RN - Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Proforma Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369848336/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Facility Maintenance Supervisor II",
+    "Location": "West Liberty, Kentucky",
+    "Employer": "Commonwealth of Kentucky",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369846114/",
+    "Occupation Name": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "SOC": "49-1011.00"
+  },
+  {
+    "Job Title": "Production Engineer",
+    "Location": "London, Kentucky",
+    "Employer": "Aisin World Corp. of America",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369678432/",
+    "Occupation Name": "Industrial Engineers",
+    "SOC": "17-2112.00"
+  },
+  {
+    "Job Title": "Phlebotomist",
+    "Location": "Ironville, KY",
+    "Employer": "LabCorp",
+    "Wage": "$34,467",
+    "Url": "https://www.themuse.com/jobs/labcorp/phlebotomist-1bb0f4",
+    "Occupation Name": "Phlebotomists",
+    "SOC": "31-9097.00"
+  },
+  {
+    "Job Title": "RN - MS Tele",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35393671",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - OR - Operating Room - $2,366 per week",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Malone Healthcare Solutions",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369927910/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Float State Registered Nursing Assistant SRNA/Certified Nursing Assistant CNA",
+    "Location": "Sandy Hook, Kentucky",
+    "Employer": "Majestic Care",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369834874/",
     "Occupation Name": "Nursing Assistants",
     "SOC": "31-1131.00"
+  },
+  {
+    "Job Title": "RN - CCU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35393026",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Speech Therapy PRN",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Speech-Therapy-PRN_R26097265-1",
+    "Occupation Name": "Speech-Language Pathologists",
+    "SOC": "29-1127.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - MS-Tele",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17803330",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Cardiac Cath Lab RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "The Good Life MedStaff",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/2849-35786100",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Med Surg - $2,201 per week",
+    "Location": "West Liberty, Kentucky",
+    "Employer": "Malone Healthcare Solutions",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369372610/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Rad Tech I",
+    "Location": "Paintsville, KY 41240",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37107/rad-tech-i/job?in_iframe=1",
+    "Occupation Name": "Radiologic Technologists and Technicians",
+    "SOC": "29-2034.00"
+  },
+  {
+    "Job Title": "Travel Critical Care RN - $2,755 per week",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Host Healthcare, Inc.",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369387425/",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Small Animal Associate Veterinarian Job, Beaver, Pennsylvania, USA",
+    "Location": "Beaver, Kentucky",
+    "Employer": "The Vet Service",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369920739/",
+    "Occupation Name": "Veterinarians",
+    "SOC": "29-1131.00"
+  },
+  {
+    "Job Title": "Clinical Resource Nurse",
+    "Location": "Paintsville, KY 41240",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37098/clinical-resource-nurse/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Locum | Physician Gastroenterology",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "CompHealth",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4361063065/",
+    "Occupation Name": "Physicians, All Other",
+    "SOC": "29-1229.00"
+  },
+  {
+    "Job Title": "MATHEMATICS TEACHER",
+    "Location": "Martin, Kentucky",
+    "Employer": "Floyd County School of Innovation",
+    "Wage": "0",
+    "Url": "https://www.schoolspring.com/jobs?jobid=5526276",
+    "Occupation Name": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "SOC": "25-2031.00"
+  },
+  {
+    "Job Title": "Certified Medication Technician - CMT - Days",
+    "Location": "West Liberty, KY 41472",
+    "Employer": "WellPath",
+    "Wage": "0",
+    "Url": "https://careers-wellpath.icims.com/jobs/184487/certified-medication-technician-%28certification-required%29---kydoc/job?in_iframe=1",
+    "Occupation Name": "Nursing Assistants",
+    "SOC": "31-1131.00"
+  },
+  {
+    "Job Title": "PHYSICAL THERAPIST",
+    "Location": "Barbourville, KY 40906",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37136/physical-therapist/job?in_iframe=1",
+    "Occupation Name": "Physical Therapists",
+    "SOC": "29-1123.00"
+  },
+  {
+    "Job Title": "Emergency Department Technician - ED Tech",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Emergency-Department-Technician---ED-Tech_R26097430-1",
+    "Occupation Name": "Emergency Medical Technicians",
+    "SOC": "29-2042.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN)",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/RN-CCU-Full-Time_R25091373-1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Truck Driver CDL A No Touch Part Time",
+    "Location": "Corbin, KY 40701",
+    "Employer": "Ryder",
+    "Wage": "0",
+    "Url": "https://rydercareers-ryder.icims.com/jobs/195680/truck-driver-cdl-a-no-touch-part-time/job?in_iframe=1",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - ICU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17798247",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - MS-Tele",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17803331",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Radiology / Cardiology",
+    "Location": "Pikeville, KY, 41501",
+    "Employer": "Pikeville Medical Center",
+    "Wage": "0",
+    "Url": "https://www.ayahealthcare.com/travel-nursing-job/3186299",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Telemetry - $2,865 per week",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Cross Country Nurses",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369503182/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit - $2,110 per week",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Malone Healthcare Solutions",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369534047/",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "RN - CCU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35393616",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Travel Nurse - Registered Nurse - ICU",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Apex Home Health, Hospice & Home Care",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369860028/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "RN NICU Full Time Nights",
+    "Location": "LONDON, KY 40741",
+    "Employer": "Dignity Health",
+    "Wage": "$62,400",
+    "Url": "https://careers-commonspirit.icims.com/jobs/452792/rn-nicu-full-time-nights/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Bulan, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369514583/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
+  },
+  {
+    "Job Title": "RN - MS Tele",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35393672",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Operator Telecom Construction Equipment",
+    "Location": "London, Kentucky",
+    "Employer": "Triple-D Communications, LLC",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369196871/",
+    "Occupation Name": "Construction Laborers",
+    "SOC": "47-2061.00"
+  },
+  {
+    "Job Title": "Delivery Technician",
+    "Location": "Prestonsburg, KY 41653",
+    "Employer": "Quipt Home Medical",
+    "Wage": "0",
+    "Url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3899202",
+    "Occupation Name": "Light Truck Drivers",
+    "SOC": "53-3033.00"
+  },
+  {
+    "Job Title": "Fulfillment Specialist",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fastenal",
+    "Wage": "0",
+    "Url": "https://jobs.fastenal.com/details/617370",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "Licensed Vocational Nurse - LVN",
+    "Location": "Canada, Kentucky",
+    "Employer": "La Casa Health Care",
+    "Wage": "$60,320",
+    "Url": "https://www.linkedin.com/jobs/view/4369308695/",
+    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
+    "SOC": "29-2061.00"
+  },
+  {
+    "Job Title": "Travel Critical Care RN - $3,058 per week",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "The Good Life MedStaff, LLC",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369966629/",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Travel ICU Registered Nurse - $2,046 per week",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Jackson Nurse Professionals",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369378625/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Truck Driver CDL A TEAMS No Experience",
+    "Location": "Corbin, KY 40701",
+    "Employer": "Ryder",
+    "Wage": "0",
+    "Url": "https://rydercareers-ryder.icims.com/jobs/195664/truck-driver-cdl-a-teams-no-experience/job?in_iframe=1",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - LTAC",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17796990",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - PCU/IMC/Stepdown",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17796988",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel/Contract Medical/Surgical/Telemetry Registered Nurse - Nights - Up to $2340/WK!",
+    "Location": "41501",
+    "Employer": "Connected Health Care, LLC",
+    "Wage": "0",
+    "Url": "http://jobs.connectedhc.com/jb/Travel-Contract-Medical-Surgical-Telemetry-Registered-Nurse-Nights-Up-to-2340-WK-Jobs-in-Pikeville-KY/13676707",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
   },
   {
     "Job Title": "RN - PCU",
     "Location": "Hazard, Kentucky",
     "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35390065",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35392857",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Registered Nurse (RN) - Rehab",
+    "Job Title": "Registered Nurse Tier 1 (Union) - ICU",
+    "Location": "Hazard, KY 41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37036/registered-nurse-tier-1-%28union%29---icu/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Independent Scanning Specialist",
+    "Location": "McKee, KY 40447, USA",
+    "Employer": "RDSolutions",
+    "Wage": "0",
+    "Url": "https://rdsolutionscareers.workgr8.com/jobs/51905/independent-scanning-specialist",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "RN - LTAC",
     "Location": "Hazard, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
+    "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17767420",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35392835",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Certified Medical Assistant II",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$40,300",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455574/certified-medical-assistant-ii/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
+    "Job Title": "Warehouse Worker - Package Handler",
+    "Location": "FloydCounty, Kentucky-KY",
+    "Employer": "UPS",
+    "Wage": "$43,680",
+    "Url": "https://www.oriontalent.com/search-jobs/career/11579410/warehouse-worker-package-handler-kentucky-ky-floyd-county",
+    "Occupation Name": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "SOC": "53-7062.00"
   },
   {
-    "Job Title": "Surgical Services",
-    "Location": "Prestonsburg, KY, 41653",
-    "Employer": "Highlands ARH Regional Medical Center",
+    "Job Title": "Warehouse Part Time Days",
+    "Location": "Paintsville, Kentucky",
+    "Employer": "Lowes",
     "Wage": "0",
-    "Url": "https://www.ayahealthcare.com/travel-nursing-job/3180409",
+    "Url": "https://www.linkedin.com/jobs/view/4368958028/",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "X-Ray Technologist",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Fast Pace Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368584631/",
+    "Occupation Name": "Radiologic Technologists and Technicians",
+    "SOC": "29-2034.00"
+  },
+  {
+    "Job Title": "Monitor Technician",
+    "Location": "Hazard, KY 41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37059/monitor-technician/job?in_iframe=1",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Registered Respiratory Tech (R",
+    "Location": "Whitesburg, KY 41858",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37063/registered-respiratory-tech-%28r/job?in_iframe=1",
+    "Occupation Name": "Respiratory Therapists",
+    "SOC": "29-1126.00"
+  },
+  {
+    "Job Title": "Benefits Coordinator",
+    "Location": "41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37132/benefits-coordinator/job?in_iframe=1",
+    "Occupation Name": "Compensation, Benefits, and Job Analysis Specialists",
+    "SOC": "13-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier 1 Psych",
+    "Location": "Prestonsburg, KY 41653",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37121/registered-nurse-tier-1-psych/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier 1 (Union) Psych",
+    "Location": "Hazard, KY 41701",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37030/registered-nurse-tier-1-%28union%29-psych/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Radiology - Cardiovascular Tech",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35392859",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Pricing Integrity Agent",
+    "Location": "Hazard, Kentucky",
+    "Employer": "RDSolutions",
+    "Wage": "0",
+    "Url": "https://rdsolutionscareers.workgr8.com/jobs/51890/pricing-integrity-agent",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "Pricing Integrity Agent",
+    "Location": "Jackson, KY 41339, USA",
+    "Employer": "RDSolutions",
+    "Wage": "0",
+    "Url": "https://rdsolutionscareers.workgr8.com/jobs/51894/pricing-integrity-agent",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "RN - CCU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35392952",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Certified Surgical Technician (CST) - OR/CVOR",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Travel Nurses Inc.",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369690164/",
     "Occupation Name": "Surgical Technologists",
     "SOC": "29-2055.00"
   },
   {
-    "Job Title": "Registered Nurse (RN) - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
+    "Job Title": "RN - PCU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17767421",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35392858",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "RN Home Health",
-    "Location": "London, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$73,905",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455633/rn-home-health/job?in_iframe=1",
+    "Job Title": "Travel Stepdown RN",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Titan Medical",
+    "Wage": "0",
+    "Url": "https://www.healthecareers.com/job/travel-stepdown-rn/13180984",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Production Clerk",
+    "Location": "Morehead, Kentucky",
+    "Employer": "Goodwill Kentucky",
+    "Wage": "$24,960",
+    "Url": "https://www.linkedin.com/jobs/view/4359565795/",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "Travel Surgical Tech - First Assist",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Anders Group",
+    "Wage": "0",
+    "Url": "https://jobs.andersgroup.org/browse-jobs/travel-surgical-tech-first-assist-jackson-ky-|-anders-group-in-jackson-ky-6768733?within=50&amp;sort-by=JobPosting.jobPublishDTTM&amp;page=35",
+    "Occupation Name": "Surgical Technologists",
+    "SOC": "29-2055.00"
+  },
+  {
+    "Job Title": "Clinic RN Non-Union",
+    "Location": "Paintsville, KY 41240",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37130/clinic-rn-non-union/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Advanced Practice Registered Nurse - Home Based Primary Care",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Department of Veterans Affairs",
+    "Wage": "0",
+    "Url": "https://www.usajobs.gov/GetJob/ViewDetails/856705300",
+    "Occupation Name": "Advanced Practice Psychiatric Nurses",
+    "SOC": "29-1141.02"
+  },
+  {
+    "Job Title": "Registered Nurse- ER",
+    "Location": "40962",
+    "Employer": "AdventHealth",
+    "Wage": "0",
+    "Url": "https://jobs.adventhealth.com/manchester-ky/registered-nurse-er/CF4FEF76CC744C90ADEC7620F68F8F9B/job/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Deckhand",
+    "Location": "Catlettsburg, Kentucky",
+    "Employer": "Marathon Petroleum Corporation",
+    "Wage": "0",
+    "Url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Catlettsburg-Kentucky/Deckhand-3_00020387",
+    "Occupation Name": "Captains, Mates, and Pilots of Water Vessels",
+    "SOC": "53-5021.00"
+  },
+  {
+    "Job Title": "Flight Paramedic",
+    "Location": "40741",
+    "Employer": "Global Medical Response",
+    "Wage": "0",
+    "Url": "https://gmr.jibeapply.com/jobs/55591?city=London&state=Kentucky&country=United States&country_code=US&latitude=37.0995&longitude=-84.1131",
+    "Occupation Name": "Paramedics",
+    "SOC": "29-2043.00"
+  },
+  {
+    "Job Title": "Cardiac Catheterization Lab Staff RN - Travel Registered Nurse",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Trusted Health",
+    "Wage": "0",
+    "Url": "https://www.healthecareers.com/job/cardiac-catheterization-lab-staff-rn-travel-registered-nurse/13240953",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Telemetry Registered Nurse",
+    "Location": "Hazard, Kentucky",
+    "Employer": "MedPro Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://jobs.medprostaffing.com/jobs/telemetry-registered-nurse-hazard-kentucky/a0Fcx00000DI8m1EAD/show",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Auto Care Center Service Writer",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Walmart",
+    "Wage": "$33,893",
+    "Url": "https://www.linkedin.com/jobs/view/4369068979/",
+    "Occupation Name": "Automotive Service Technicians and Mechanics",
+    "SOC": "49-3023.00"
+  },
+  {
+    "Job Title": "Operating Room First Assist Technologist (ORFA Tech)",
+    "Location": "Jackson, Kentucky",
+    "Employer": "FlexCare Medical Staffing",
+    "Wage": "0",
+    "Url": "https://www.flexcarestaff.com/job/job-01714414",
+    "Occupation Name": "Surgical Technologists",
+    "SOC": "29-2055.00"
+  },
+  {
+    "Job Title": "Licensed Practical Nurse (LPN)",
+    "Location": "Annville, Kentucky",
+    "Employer": "Signature HealthCARE",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369022438/",
+    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
+    "SOC": "29-2061.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Prolink Region 2",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/18236-D-159259",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Technician Associate - Technician",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "American Electric Power",
+    "Wage": "0",
+    "Url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Pikeville-KY/Technician-Associate---Technician_R13748",
+    "Occupation Name": "Maintenance and Repair Workers, General",
+    "SOC": "49-9071.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN) - MS-Tele",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17782924",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Overnight Caregiver",
+    "Location": "London, Kentucky",
+    "Employer": "Village Caregiving - London",
+    "Wage": "$31,200",
+    "Url": "https://careers.hireology.com/villagecaregiving-london/2647967/description",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Surgical Technologist First Assistant (STFA) - Operating Room (OR)",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Accountable Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://www.ahcstaff.com/job/?Surgical+Technologist+First+Assistant+%28STFA%29+-+Operating+Room+%28OR%29+-Jackson-KY-api-j-1881348",
+    "Occupation Name": "Surgical Technologists",
+    "SOC": "29-2055.00"
+  },
+  {
+    "Job Title": "Dietician",
+    "Location": "39 Ferndale Apartments Road, Pineville, KY, 40977",
+    "Employer": "Venza Care Management LLC",
+    "Wage": "0",
+    "Url": "https://jobs.chattr.ai/venzacare/70e6c075-713f-4c1d-bd20-a713c7b397e3",
+    "Occupation Name": "Dietitians and Nutritionists",
+    "SOC": "29-1031.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN)",
+    "Location": "Annville, Kentucky",
+    "Employer": "Signature HealthCARE",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369032241/",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
     "Job Title": "Physical Therapist",
-    "Location": "West Liberty, KY 41472",
-    "Employer": "Appalachian Regional Healthcare",
+    "Location": "Salyersville, Kentucky",
+    "Employer": "Cornerstone Rehab",
     "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37066/physical-therapist/job?in_iframe=1",
+    "Url": "https://www.linkedin.com/jobs/view/4369238971/",
     "Occupation Name": "Physical Therapists",
     "SOC": "29-1123.00"
   },
   {
-    "Job Title": "RN Weekend Med Surg 5 Part Time Days",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$62,400",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455312/rn-weekend-med-surg-5-part-time-days/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Certified Nurse Aide-Non Union",
-    "Location": "Hyden, KY 41749",
-    "Employer": "Appalachian Regional Healthcare",
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Jackhorn, Kentucky",
+    "Employer": "Toothio",
     "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37068/certified-nurse-aide-non-union/job?in_iframe=1",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
+    "Url": "https://www.linkedin.com/jobs/view/4369518151/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
   },
   {
-    "Job Title": "Registered Nurse (RN) - Intensive Care Unit (ICU)",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Travel Nurses Inc.",
+    "Job Title": "In Home Caregiver",
+    "Location": "Middlesboro, KY 40965, USA",
+    "Employer": "The Mentor Network",
+    "Wage": "$29,120",
+    "Url": "https://jobs.dayforcehcm.com/en-US/tmn/CANDIDATEPORTAL/jobs/600263",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Pharmacy Technician",
+    "Location": "London, Kentucky",
+    "Employer": "Grace Health",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367633711/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
+    "Url": "https://www.linkedin.com/jobs/view/4368818957/",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
   },
   {
-    "Job Title": "Certified Medical Assistant II",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$40,300",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455578/certified-medical-assistant-ii/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
-  },
-  {
-    "Job Title": "HR GENERALIST",
-    "Location": "Pikeville, KY, 41501-1602, US",
-    "Employer": "Compass Group",
-    "Wage": "0",
-    "Url": "https://career8.successfactors.com/career?company=CGNA&career_job_req_id=1502845&career_ns=job_listing&navBarLevel=JOB_SEARCH",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "RN - Registered Nurse - Rehab",
-    "Location": "Hazard, Kentucky",
-    "Employer": "CoreMedical Group",
-    "Wage": "0",
-    "Url": "https://my.coremedicalgroup.com/job/1354402",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "CDL A Truck Driver",
-    "Location": "Morehead, Kentucky",
-    "Employer": "Dollar General",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367268719/",
-    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
-    "SOC": "53-3032.00"
-  },
-  {
-    "Job Title": "Registered Nurse (RN) - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17764603",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN - MS",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Cynet Health Inc",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35389495",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "ICU/CCU Registered Nurse",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "MedPro Healthcare Staffing",
-    "Wage": "$94,328",
-    "Url": "https://www.healthecareers.com/job/icu-ccu-registered-nurse/13148024",
-    "Occupation Name": "Critical Care Nurses",
-    "SOC": "29-1141.03"
-  },
-  {
-    "Job Title": "RN - MS Ortho",
+    "Job Title": "RN - Cath Lab",
     "Location": "Pikeville, Kentucky",
     "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35389630",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35391861",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
   },
   {
-    "Job Title": "Class A CDL - Fuel Transport Driver",
-    "Location": "Catlettsburg, KY, 41129, US",
-    "Employer": "Pilot Flying J",
-    "Wage": "$54,998",
-    "Url": "https://careers.pilotcompany.com/class-a-cdl-fuel-transport-driver/job/B8E64DC073F4C3580C0FDBFE71568E76",
-    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
-    "SOC": "53-3032.00"
-  },
-  {
-    "Job Title": "Licensed Practical Nurse - LPN - Days",
-    "Location": "West Liberty, KY 41472",
-    "Employer": "WellPath",
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Ulysses, Kentucky",
+    "Employer": "Toothio",
     "Wage": "0",
-    "Url": "https://careers-wellpath.icims.com/jobs/184307/licensed-practical-nurse-%28lpn%29-hourly/job?in_iframe=1",
-    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
-    "SOC": "29-2061.00"
+    "Url": "https://www.linkedin.com/jobs/view/4357715264/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
   },
   {
-    "Job Title": "Phlebotomist - Non Union",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37054/phlebotomist---non-union/job?in_iframe=1",
-    "Occupation Name": "Phlebotomists",
-    "SOC": "31-9097.00"
-  },
-  {
-    "Job Title": "LPN Clinic Non-Union",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37053/lpn-clinic-non-union/job?in_iframe=1",
-    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
-    "SOC": "29-2061.00"
-  },
-  {
-    "Job Title": "Certified Medical Assistant II",
-    "Location": "Corbin, KY 40701",
-    "Employer": "Dignity Health",
-    "Wage": "$40,300",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455576/certified-medical-assistant-ii/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
-  },
-  {
-    "Job Title": "RN - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Cynet Health Inc",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35389494",
-    "Occupation Name": "Critical Care Nurses",
-    "SOC": "29-1141.03"
-  },
-  {
-    "Job Title": "Medical Assistant Non Union",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37052/medical-assistant-non-union/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
-  },
-  {
-    "Job Title": "Certified Medical Assistant II",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$40,300",
-    "Url": "https://careers-commonspirit.icims.com/jobs/455577/certified-medical-assistant-ii/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
-  },
-  {
-    "Job Title": "Diesel Service Technician",
-    "Location": "London, Kentucky",
-    "Employer": "Bluegrass Truck, Bus, RV",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367433295/",
-    "Occupation Name": "Bus and Truck Mechanics and Diesel Engine Specialists",
-    "SOC": "49-3031.00"
-  },
-  {
-    "Job Title": "RN - ICU",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Cynet Health Inc",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35389050",
-    "Occupation Name": "Critical Care Nurses",
-    "SOC": "29-1141.03"
-  },
-  {
-    "Job Title": "Registered Nurse - RN - Days",
-    "Location": "West Liberty, KY 41472",
-    "Employer": "WellPath",
-    "Wage": "0",
-    "Url": "https://careers-wellpath.icims.com/jobs/184308/registered-nurse-%28rn%29/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN Ortho Full Time Nights",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$62,400",
-    "Url": "https://careers-commonspirit.icims.com/jobs/452795/rn-ortho-full-time-nights/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Pharmacist",
-    "Location": "Grayson, Kentucky",
-    "Employer": "Walgreens",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367148300/",
-    "Occupation Name": "Pharmacists",
-    "SOC": "29-1051.00"
-  },
-  {
-    "Job Title": "On Call Registered Nurse",
-    "Location": "Morehead, Kentucky",
-    "Employer": "St. Claire HealthCare",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366998787/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "IT Operations Analyst",
-    "Location": "Middlesboro, Kentucky",
-    "Employer": "Appalachian Regional Healthcare (ARH)",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367172053/",
-    "Occupation Name": "Network and Computer Systems Administrators",
-    "SOC": "15-1244.00"
-  },
-  {
-    "Job Title": "Desktop Support Technician",
-    "Location": "London, Kentucky",
-    "Employer": "TEKsystems, Inc",
-    "Wage": "$39,520",
-    "Url": "https://careers.teksystems.com/us/en/job/JP-005795671/Desktop-Support-Technician",
-    "Occupation Name": "Computer User Support Specialists",
-    "SOC": "15-1232.00"
-  },
-  {
-    "Job Title": "Full Time - Merchandising Service Associate - Day",
-    "Location": "London, KY 2666",
-    "Employer": "Lowes",
-    "Wage": "0",
-    "Url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/London-KY-2666/Full-Time---Merchandising-Service-Associate---Day_JR-02379031-1",
-    "Occupation Name": "Stockers and Order Fillers",
-    "SOC": "53-7065.00"
-  },
-  {
-    "Job Title": "Float Pool Nursing Assistant/Sitter",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Baptist Health System",
-    "Wage": "0",
-    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Float-Pool-Nursing-Assistant-Sitter_R26097100",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
-  },
-  {
-    "Job Title": "ICU Registered Nurse",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "GQR Healthcare",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/1022-774228",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Assistant District Attorney - VAWA Prosecutor",
-    "Location": "Carter, Kentucky",
-    "Employer": "State of Oklahoma",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367024564/",
-    "Occupation Name": "Lawyers",
-    "SOC": "23-1011.00"
-  },
-  {
-    "Job Title": "RN Telemetry | $2326/week!",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/928641-rn-telemetry-2326week-harlan-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Certified Nurse Assistant (CNA)",
-    "Location": "Pikeville, KY 41501",
-    "Employer": "Addiction Recovery Care",
-    "Wage": "0",
-    "Url": "https://addictionrecoverycare.applytojob.com/apply/PHDi5es52F/Certified-Nurse-Assistant-CNA",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
-  },
-  {
-    "Job Title": "Program Coordinator II",
-    "Location": "Hazard, KY 41701",
-    "Employer": "University of Kentucky",
-    "Wage": "$47,483",
-    "Url": "https://ukjobs.uky.edu/postings/616969",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "IT Operations Analyst",
-    "Location": "Barbourville, KY 40906",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37051/it-operations-analyst/job?in_iframe=1",
-    "Occupation Name": "Network and Computer Systems Administrators",
-    "SOC": "15-1244.00"
-  },
-  {
-    "Job Title": "Patient Access Coordinator - Oncology",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Baptist Health System",
-    "Wage": "0",
-    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Patient-Access-Coordinator---Oncology_R26096809",
-    "Occupation Name": "Patient Representatives",
-    "SOC": "29-2099.08"
-  },
-  {
-    "Job Title": "Physician",
-    "Location": "Prestonsburg, KY, 41653",
-    "Employer": "0",
-    "Wage": "0",
-    "Url": "https://www.ayahealthcare.com/travel-nursing-job/3178212",
-    "Occupation Name": "Physician Assistants",
-    "SOC": "29-1071.00"
-  },
-  {
-    "Job Title": "Athletic Trainer Outreach/UKHC",
-    "Location": "Morehead, Kentucky",
-    "Employer": "University of Kentucky",
-    "Wage": "$47,550",
-    "Url": "https://ukjobs.uky.edu/postings/616978",
-    "Occupation Name": "Athletic Trainers",
-    "SOC": "29-9091.00"
-  },
-  {
-    "Job Title": "Patient Access Supervisor",
+    "Job Title": "Registered Nurse Tier 1",
     "Location": "Prestonsburg, KY 41653",
     "Employer": "Appalachian Regional Healthcare",
     "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37056/patient-access-supervisor/job?in_iframe=1",
-    "Occupation Name": "Patient Representatives",
-    "SOC": "29-2099.08"
-  },
-  {
-    "Job Title": "Consumer Loan Specialist",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Heights Finance Corporation",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366948304/",
-    "Occupation Name": "Loan Officers",
-    "SOC": "13-2072.00"
-  },
-  {
-    "Job Title": "Licensed Physical Therapist Assistant",
-    "Location": "933 N Tolliver Rd, Morehead, KY, 40351",
-    "Employer": "Life Care Center of Morehead",
-    "Wage": "0",
-    "Url": "https://lifecarecareers.hcshiring.com/jobs/9vxvO_8WiEqb_lKAxc1W3A",
-    "Occupation Name": "Physical Therapist Assistants",
-    "SOC": "31-2021.00"
-  },
-  {
-    "Job Title": "Registered Nurse Tier 1(Union) ICU",
-    "Location": "Harlan, KY 40831",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37031/registered-nurse-tier-1%28union%29-icu/job?in_iframe=1",
+    "Url": "https://careers-arh.icims.com/jobs/37115/registered-nurse-tier-1/job?in_iframe=1",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Absence Management Coordinator",
-    "Location": "Morehead, Kentucky",
-    "Employer": "St. Claire HealthCare",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4356125318/",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "RN OR | $2446/week!",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/928398-rn-or-2446week-prestonsburg-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN Telemetry",
+    "Job Title": "RN - CCU",
     "Location": "Pikeville, Kentucky",
-    "Employer": "Amergis",
+    "Employer": "Talent4Health LLC",
     "Wage": "0",
-    "Url": "https://www.amergis.com/job/928446-rn-telemetry-pikeville-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
+    "Url": "https://nexus-leap.laboredge.com/Talent/job-details-view/17781301",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
   },
   {
-    "Job Title": "Locum Gastroenterology Physician job in Prestonsburg, KY - Make $4000/day - $4500/day",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Aya Locums",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366431194/",
-    "Occupation Name": "General Internal Medicine Physicians",
-    "SOC": "29-1216.00"
-  },
-  {
-    "Job Title": "Line Mechanic C-A",
+    "Job Title": "RN - MS Tele",
     "Location": "Hazard, Kentucky",
-    "Employer": "American Electric Power",
+    "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Hazard-KY/Line-Mechanic-C-A_R13311",
-    "Occupation Name": "Electrical Power-Line Installers and Repairers",
-    "SOC": "49-9051.00"
-  },
-  {
-    "Job Title": "Physical Therapist",
-    "Location": "Hyden, KY 41749",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37048/physical-therapist/job?in_iframe=1",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
-  },
-  {
-    "Job Title": "Clinic Medical Assistant",
-    "Location": "Martin, KY 41649",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37042/clinic-medical-assistant/job?in_iframe=1",
-    "Occupation Name": "Medical Assistants",
-    "SOC": "31-9092.00"
-  },
-  {
-    "Job Title": "Acute Care Physical Therapist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "CoreMedical Group",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/145-1352173",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
-  },
-  {
-    "Job Title": "Health Information Abstractor",
-    "Location": "Middlesboro, KY 40965",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37049/health-information-abstractor/job?in_iframe=1",
-    "Occupation Name": "Medical Records Specialists",
-    "SOC": "29-2072.00"
-  },
-  {
-    "Job Title": "HB1\\/Filler\\/3rd",
-    "Location": "London, Kentucky",
-    "Employer": "Flowers Foods",
-    "Wage": "0",
-    "Url": "https://career4.successfactors.com/career?company=FlocorpPRD&career_job_req_id=44970&career_ns=job_listing&navBarLevel=JOB_SEARCH",
-    "Occupation Name": "Stockers and Order Fillers",
-    "SOC": "53-7065.00"
-  },
-  {
-    "Job Title": "Registered Nurse Tier 1(Union) ICU",
-    "Location": "Harlan, KY 40831",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37032/registered-nurse-tier-1%28union%29-icu/job?in_iframe=1",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35391604",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Consumer Loan Specialist",
-    "Location": "Corbin, KY 40701",
-    "Employer": "Heights Finance Corporation",
+    "Job Title": "Surgical First Assistant - OR",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Anders Group",
     "Wage": "0",
-    "Url": "https://heightsfinance-attainfinance.icims.com/jobs/9489/consumer-loan-specialist/job?in_iframe=1",
-    "Occupation Name": "Loan Officers",
-    "SOC": "13-2072.00"
+    "Url": "https://www.vivian.com/job/127-990117",
+    "Occupation Name": "Surgical Assistants",
+    "SOC": "29-9093.00"
   },
   {
-    "Job Title": "Market Development Lead",
-    "Location": "USA - KY - Pikesville",
-    "Employer": "Campbell's",
-    "Wage": "0",
-    "Url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---KY---Pikesville/Market-Development-Lead_Req-63209",
-    "Occupation Name": "Market Research Analysts and Marketing Specialists",
-    "SOC": "13-1161.00"
-  },
-  {
-    "Job Title": "Registered Nurse (RN) - OR",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17751448",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Store Driver",
-    "Location": "103 Black Gold Blvd, Hazard, KY  41701",
-    "Employer": "Advance Auto Parts",
-    "Wage": "0",
-    "Url": "https://advanceauto.wd5.myworkdayjobs.com/AdvanceExternalCareers/job/103-Black-Gold-Blvd-Hazard-KY--41701/Store-Driver_R-0568938-1",
-    "Occupation Name": "Light Truck Drivers",
-    "SOC": "53-3033.00"
-  },
-  {
-    "Job Title": "Float Pool Nursing Assistant",
+    "Job Title": "Registered Nurse (RN)",
     "Location": "Corbin, Kentucky",
     "Employer": "Baptist Health System",
     "Wage": "0",
-    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Float-Pool-Nursing-Assistant_R26097099",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Registered-Nurse--RN-_R26097387",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
   },
   {
-    "Job Title": "ER Tech",
-    "Location": "Paintsville, Kentucky",
-    "Employer": "Appalachian Regional Healthcare (ARH)",
+    "Job Title": "RN - MS Tele",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366670762/",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35391605",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
   },
   {
-    "Job Title": "RN Cardiac/ Telemetry",
+    "Job Title": "Telemetry Registered Nurse II",
+    "Location": "Prestonburg, KY",
+    "Employer": "Host Healthcare, Inc.",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/85-a1fVX000002ZNTeYAO",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Allen, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4357579270/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
+  },
+  {
+    "Job Title": "Registered Nurse",
+    "Location": "Barbourville, KY, 40906",
+    "Employer": "Bluegrass Care Navigators - Barbourville",
+    "Wage": "0",
+    "Url": "https://www.ayahealthcare.com/travel-nursing-job/3184135",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Spring/Summer 2026 New Graduate Registered Nurse (ADN/BSN)",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Spring-Summer-2026-New-Graduate-Registered-Nurse--ADN-BSN-_R26097378",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "RN - Cardiac Cath Lab/RN",
     "Location": "Pikeville, Kentucky",
-    "Employer": "Amergis",
+    "Employer": "Talent4Health LLC",
     "Wage": "0",
-    "Url": "https://www.amergis.com/job/928034-rn-cardiac-telemetry-pikeville-ky/",
-    "Occupation Name": "Acute Care Nurses",
-    "SOC": "29-1141.01"
+    "Url": "https://nexus-leap.laboredge.com/Talent/job-details-view/17786001",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
   },
   {
-    "Job Title": "RN Telemetry",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Amergis",
+    "Job Title": "Registered Nurse (RN) - MS-Tele",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Lucid Staffing Solutions",
     "Wage": "0",
-    "Url": "https://www.amergis.com/job/928447-rn-telemetry-harlan-ky/",
+    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17782925",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Travel Nurse RN - OR - Operating Room",
+    "Job Title": "Travel Nurse RN - Telemetry",
     "Location": "Prestonsburg, Kentucky",
-    "Employer": "Amergis Healthcare Staffing, Inc.",
+    "Employer": "TNAA TotalMed RN",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/13665-1083860",
+    "Url": "https://www.vivian.com/job/jp-55090410",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Registered Nurse Tier 1(Union) ICU",
+    "Job Title": "Law Clerk",
+    "Location": "Morehead, Kentucky",
+    "Employer": "Commonwealth of Kentucky",
+    "Wage": "$44,889",
+    "Url": "https://www.linkedin.com/jobs/view/4368788554/",
+    "Occupation Name": "Judicial Law Clerks",
+    "SOC": "23-1012.00"
+  },
+  {
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Mize, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4357723904/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN)",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Registered-Nurse--RN-_R26097380",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Dietician",
+    "Location": "19101 US-119 North, Cumberland, KY, 40823",
+    "Employer": "Venza Care Management LLC",
+    "Wage": "0",
+    "Url": "https://jobs.chattr.ai/venzacare/be1b2e94-4ffc-45f9-a77f-8254bb0b5802",
+    "Occupation Name": "Dietitians and Nutritionists",
+    "SOC": "29-1031.00"
+  },
+  {
+    "Job Title": "Water and Sewer Field Technician (Asset Management Technician)",
+    "Location": "Home Office, London, KY, USA, 40741",
+    "Employer": "Great Lakes Community Action Partnership",
+    "Wage": "$48,318",
+    "Url": "https://secure10.entertimeonline.com/ta/6118294.careers?ShowJob=671750858",
+    "Occupation Name": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "SOC": "47-4071.00"
+  },
+  {
+    "Job Title": "Critical Care RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "GHR Healthcare -  Travel Division",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/4163-75569347",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Med Surg / Telemetry",
+    "Location": "Hazard, Kentucky",
+    "Employer": "TRS Healthcare",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/109-1435550",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Pharmacy Technician",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "ACtalent",
+    "Wage": "$37,440",
+    "Url": "https://careers.actalentservices.com/us/en/job/JP-005808166",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
+  },
+  {
+    "Job Title": "Medical Assistant Clinic Union",
     "Location": "Harlan, KY 40831",
     "Employer": "Appalachian Regional Healthcare",
     "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37033/registered-nurse-tier-1%28union%29-icu/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Registered Nurse (RN) - Progressive Care/Stepdown (PCU)",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Travel Nurses Inc.",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366913901/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Retail Scan Associate (Middlesboro, KY 40965)",
-    "Location": "Middlesboro, Kentucky",
-    "Employer": "ScanScape",
-    "Wage": "$31,200",
-    "Url": "https://www.linkedin.com/jobs/view/4366615417/",
-    "Occupation Name": "Stockers and Order Fillers",
-    "SOC": "53-7065.00"
-  },
-  {
-    "Job Title": "Travel Medical Surgical Registered Nurse (RN) - Up to $2,200WK!",
-    "Location": "41653",
-    "Employer": "Connected Health Care, LLC",
-    "Wage": "0",
-    "Url": "http://jobs.connectedhc.com/jb/Travel-Medical-Surgical-Registered-Nurse-RN-Up-to-2-200WK-Jobs-in-Prestonsburg-KY/13661893",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Delivery Specialist",
-    "Location": "Store 05166 Grayson KY",
-    "Employer": "O'Reilly Auto Parts",
-    "Wage": "0",
-    "Url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-05166-Grayson-KY/Delivery-Specialist_R162178",
-    "Occupation Name": "Light Truck Drivers",
-    "SOC": "53-3033.00"
-  },
-  {
-    "Job Title": "Patient Access Specialist - PRN",
-    "Location": "Irvine, Kentucky",
-    "Employer": "Ensemble Health Partners",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366075983/",
-    "Occupation Name": "Patient Representatives",
-    "SOC": "29-2099.08"
-  },
-  {
-    "Job Title": "Medical Assistant/Ambulatory/UKHC",
-    "Location": "Morehead, Kentucky",
-    "Employer": "University of Kentucky",
-    "Wage": "$37,856",
-    "Url": "https://ukjobs.uky.edu/postings/616707",
+    "Url": "https://careers-arh.icims.com/jobs/37064/medical-assistant-clinic-union/job?in_iframe=1",
     "Occupation Name": "Medical Assistants",
     "SOC": "31-9092.00"
   },
   {
-    "Job Title": "MASSAGE THERAPIST",
-    "Location": "Middlesboro, KY 40965",
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Pikeville Medical Center, KY",
+    "Employer": "Trustaff",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/91-980660",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Paramedic",
+    "Location": "41653",
+    "Employer": "Global Medical Response",
+    "Wage": "$42,640",
+    "Url": "https://gmr.jibeapply.com/jobs/55543?city=Prestonsburg&state=Kentucky&country=United States&country_code=US&latitude=37.661&longitude=-82.7636",
+    "Occupation Name": "Paramedics",
+    "SOC": "29-2043.00"
+  },
+  {
+    "Job Title": "Clinic Medical Assistant",
+    "Location": "Hazard, KY 41701",
     "Employer": "Appalachian Regional Healthcare",
     "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37050/massage-therapist/job?in_iframe=1",
-    "Occupation Name": "Massage Therapists",
-    "SOC": "31-9011.00"
+    "Url": "https://careers-arh.icims.com/jobs/37020/clinic-medical-assistant/job?in_iframe=1",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "Physical Therapist - Acute - (PT - Acute)",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "AMN Healthcare Allied",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368847544/",
+    "Occupation Name": "Physical Therapists",
+    "SOC": "29-1123.00"
+  },
+  {
+    "Job Title": "Registered Dental Hygienist",
+    "Location": "Pine Ridge, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4357459273/",
+    "Occupation Name": "Dental Hygienists",
+    "SOC": "29-1292.00"
+  },
+  {
+    "Job Title": "CDL A Delivery Truck Driver",
+    "Location": "Sandgap, Kentucky",
+    "Employer": "MBM Corporation",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369098216/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Fulfillment Specialist",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fastenal",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369763827/",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "EMT Basic",
+    "Location": "41501",
+    "Employer": "Global Medical Response",
+    "Wage": "$29,120",
+    "Url": "https://gmr.jibeapply.com/jobs/55537?city=Pikeville&state=Kentucky&country=United States&country_code=US&latitude=37.5161&longitude=-82.5173",
+    "Occupation Name": "Emergency Medical Technicians",
+    "SOC": "29-2042.00"
+  },
+  {
+    "Job Title": "Class-A CDL Regional Company Driver",
+    "Location": "London, Kentucky",
+    "Employer": "Quality Carriers",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368861095/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "RN - ICU",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Meda Health, LLC",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Meda/job-details-view/17780628",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Truck Driver CDL A TEAMS No Experience",
+    "Location": "Corbin, KY 40701",
+    "Employer": "Ryder",
+    "Wage": "0",
+    "Url": "https://rydercareers-ryder.icims.com/jobs/195447/truck-driver-cdl-a-teams-no-experience/job?in_iframe=1",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Cardiac Cath Lab RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "CoreMedical Group",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/145-1350035",
+    "Occupation Name": "Cardiovascular Technologists and Technicians",
+    "SOC": "29-2031.00"
+  },
+  {
+    "Job Title": "Maintenance Worker I",
+    "Location": "Manchester, Kentucky",
+    "Employer": "District Wide",
+    "Wage": "0",
+    "Url": "https://www.schoolspring.com/jobs?jobid=5521336",
+    "Occupation Name": "Maintenance and Repair Workers, General",
+    "SOC": "49-9071.00"
+  },
+  {
+    "Job Title": "Family Nurse Practitioner",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fast Pace Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368390966/",
+    "Occupation Name": "Nurse Practitioners",
+    "SOC": "29-1171.00"
   },
   {
     "Job Title": "Phlebotomist - Rover",
@@ -857,859 +1487,1039 @@
     "SOC": "31-9097.00"
   },
   {
-    "Job Title": "Lead Superintendent",
-    "Location": "Morehead, Kentucky",
-    "Employer": "Cleveland Construction, Inc.",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4367532458/",
-    "Occupation Name": "First-Line Supervisors of Construction Trades and Extraction Workers",
-    "SOC": "47-1011.00"
-  },
-  {
-    "Job Title": "RN - Tele",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Cynet Health Inc",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35386990",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN ER - Paintsville",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37008/rn-er---paintsville/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Lease Operator",
-    "Location": "Langley, Kentucky",
-    "Employer": "Diversified Energy Company",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366063060/",
-    "Occupation Name": "Wellhead Pumpers",
-    "SOC": "53-7073.00"
-  },
-  {
-    "Job Title": "RN Cardiac - Tele",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/927991-rn-cardiac-tele-pikeville-ky/",
-    "Occupation Name": "Acute Care Nurses",
-    "SOC": "29-1141.01"
-  },
-  {
-    "Job Title": "RN ER - Paintsville",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37007/rn-er---paintsville/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN Telemetry - $2326-$2926",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/927932-rn-telemetry-2326-2926-harlan-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Physical Therapist  | Pikeville, Kentucky",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Soliant Health",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366325725/",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
-  },
-  {
-    "Job Title": "1099 Nurse Practitioner (APRN)",
-    "Location": "Pikeville, KY 41501",
-    "Employer": "Groups Recover Together, Inc.",
-    "Wage": "0",
-    "Url": "https://careers-groupsrecovertogether.icims.com/jobs/6843/1099-nurse-practitioner-%28aprn%29/job?in_iframe=1",
-    "Occupation Name": "Nurse Practitioners",
-    "SOC": "29-1171.00"
-  },
-  {
-    "Job Title": "Patient Access Representative-",
-    "Location": "Prestonsburg, KY 41653",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37010/patient-access-representative-/job?in_iframe=1",
-    "Occupation Name": "Patient Representatives",
-    "SOC": "29-2099.08"
-  },
-  {
-    "Job Title": "Human Resources Contact Center Representative",
-    "Location": "Salt Lick, Kentucky",
-    "Employer": "St. Claire HealthCare",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366259087/",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "Production Associate",
-    "Location": "Morehead, Kentucky",
-    "Employer": "Aerotek",
-    "Wage": "$31,751",
-    "Url": "https://jobs.aerotek.com/us/en/job/JP-005793548/",
-    "Occupation Name": "Production Workers, All Other",
-    "SOC": "51-9199.00"
-  },
-  {
-    "Job Title": "Laboratory Assistant - Non Union",
-    "Location": "MARTIN, KY 41649",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37034/laboratory-assistant---non-union/job?in_iframe=1",
-    "Occupation Name": "Medical and Clinical Laboratory Technicians",
-    "SOC": "29-2012.00"
-  },
-  {
-    "Job Title": "Phlebotomist- Non Union Highlands",
-    "Location": "Prestonsburg, KY 41653",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37024/phlebotomist--non-union-highlands/job?in_iframe=1",
-    "Occupation Name": "Phlebotomists",
-    "SOC": "31-9097.00"
-  },
-  {
-    "Job Title": "Resource Patient Companion PRN Shift Varies",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$41,600",
-    "Url": "https://careers-commonspirit.icims.com/jobs/424693/resource-patient-companion-prn-shift-varies/job?in_iframe=1",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
-  },
-  {
-    "Job Title": "Production Associate - Picker - Temporary (Grayson, KY, US, 41143)",
-    "Location": "Grayson, KY, US, 41143",
-    "Employer": "Cintas",
-    "Wage": "0",
-    "Url": "https://careers.cintas.com/job/Grayson-Production-Associate-Picker-Temporary-KY-41143/1359736200/",
-    "Occupation Name": "Stockers and Order Fillers",
-    "SOC": "53-7065.00"
-  },
-  {
-    "Job Title": "Seasonal Cartographic Technician",
-    "Location": "Middlesboro, Kentucky",
-    "Employer": "Department of the Interior",
-    "Wage": "0",
-    "Url": "https://www.usajobs.gov/GetJob/ViewDetails/852691400",
-    "Occupation Name": "Cartographers and Photogrammetrists",
-    "SOC": "17-1021.00"
-  },
-  {
-    "Job Title": "ER Tech",
-    "Location": "Paintsville, KY 41240",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/37009/er-tech/job?in_iframe=1",
+    "Job Title": "EMT Advanced",
+    "Location": "41653",
+    "Employer": "Global Medical Response",
+    "Wage": "$32,760",
+    "Url": "https://gmr.jibeapply.com/jobs/55542?city=Prestonsburg&state=Kentucky&country=United States&country_code=US&latitude=37.661&longitude=-82.7636",
     "Occupation Name": "Emergency Medical Technicians",
     "SOC": "29-2042.00"
   },
   {
-    "Job Title": "ICU Registered Nurse",
-    "Location": "Hazard, Kentucky",
-    "Employer": "GQR Healthcare",
+    "Job Title": "Outpatient Patient Care Technician - PCT",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Fresenius Medical Care",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/1022-769843",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
+    "Url": "https://www.linkedin.com/jobs/view/4368650349/",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
   },
   {
-    "Job Title": "Nurse Practitioner - Hazard, KY",
-    "Location": "Lost Creek, Kentucky",
-    "Employer": "MRG Exams",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4365891733/",
-    "Occupation Name": "Nurse Practitioners",
-    "SOC": "29-1171.00"
-  },
-  {
-    "Job Title": "Travel OR RN",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/927921-travel-or-rn-prestonsburg-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Cath Lab Technician",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Uniti Med",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/1233-771266",
-    "Occupation Name": "Cardiovascular Technologists and Technicians",
-    "SOC": "29-2031.00"
-  },
-  {
-    "Job Title": "Registered Nurse Tier 1 (Union) ER",
-    "Location": "Hazard, KY 41701",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/36972/registered-nurse-tier-1-%28union%29-er/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Registered Nurse (RN)  Womens Health",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Baptist Health System",
-    "Wage": "0",
-    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Registered-Nurse--RN----Women-s-Health_R26096181",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Travel Certified Surgical Technologist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/13896-17739171",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Inventory Tech",
-    "Location": "LONDON, KY 40741",
-    "Employer": "Dignity Health",
-    "Wage": "$33,575",
-    "Url": "https://careers-commonspirit.icims.com/jobs/451775/inventory-tech/job?in_iframe=1",
-    "Occupation Name": "Stockers and Order Fillers",
-    "SOC": "53-7065.00"
-  },
-  {
-    "Job Title": "Registered Nurse - RN - PRN",
-    "Location": "Beattyville, KY 41311",
-    "Employer": "WellPath",
-    "Wage": "0",
-    "Url": "https://careers-wellpath.icims.com/jobs/184070/registered-nurse-%28rn%29/job?in_iframe=1",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Local Contract Certified Surgical Technologist",
-    "Location": "Morehead, Kentucky",
-    "Employer": "Medasource",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-54756618",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Surgical Tech - Certified Surg Tech",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Cynet Health Inc",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35385429",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Addiction Medicine Physician or Nurse Practitioner",
-    "Location": "Morehead, Kentucky",
-    "Employer": "Spero Health",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355928895/",
-    "Occupation Name": "Nurse Practitioners",
-    "SOC": "29-1171.00"
-  },
-  {
-    "Job Title": "Echo CardiographerTechnician",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/927495-echo-cardiographertechnician-pikeville-ky/",
-    "Occupation Name": "Diagnostic Medical Sonographers",
-    "SOC": "29-2032.00"
-  },
-  {
-    "Job Title": "APRN/PA-C",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Grace Health",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366101524/",
-    "Occupation Name": "Physician Assistants",
-    "SOC": "29-1071.00"
-  },
-  {
-    "Job Title": "Clinical Coder I",
-    "Location": "Harlan, KY 40831",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/36885/clinical-coder-i/job?in_iframe=1",
-    "Occupation Name": "Health Information Technologists and Medical Registrars",
-    "SOC": "29-9021.00"
-  },
-  {
-    "Job Title": "Licensed Practical Nurse - LPN - PRN",
-    "Location": "Beattyville, KY 41311",
-    "Employer": "WellPath",
-    "Wage": "0",
-    "Url": "https://careers-wellpath.icims.com/jobs/184071/licensed-practical-nurse-%28lpn%29-hourly/job?in_iframe=1",
-    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
-    "SOC": "29-2061.00"
-  },
-  {
-    "Job Title": "Recruiter II - Talent Acquisition",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Baptist Health System KY & IN",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4365875346/",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "Mortgage Field Services Inspector",
-    "Location": "Whitesburg, Kentucky",
-    "Employer": "FAR INSPECTIONS",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355735698/",
-    "Occupation Name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
-    "SOC": "51-9061.00"
-  },
-  {
-    "Job Title": "Mortgage Field Services Inspector",
-    "Location": "Booneville, Kentucky",
-    "Employer": "FAR INSPECTIONS",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355775851/",
-    "Occupation Name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
-    "SOC": "51-9061.00"
-  },
-  {
-    "Job Title": "RN Telemetry - Days",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/927361-rn-telemetry-days-harlan-ky/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN - Cath Lab",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Assured Nursing, Inc.",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Assured/job-details-view/35652328",
-    "Occupation Name": "Cardiovascular Technologists and Technicians",
-    "SOC": "29-2031.00"
-  },
-  {
-    "Job Title": "Transitions of Care Pharmacist",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Baptist Health System",
-    "Wage": "0",
-    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Transitions-of-Care-Pharmacist_R26097005",
-    "Occupation Name": "Pharmacists",
-    "SOC": "29-1051.00"
-  },
-  {
-    "Job Title": "Registered Nurse (RN) - OR",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17738750",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Surgical Tech (CST) - OR",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Lucid Staffing Solutions",
-    "Wage": "0",
-    "Url": "https://nexus-leap.laboredge.com/Lucid/job-details-view/17739171",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Travel Nurse RN - CVICU",
-    "Location": "Hazard, Kentucky",
-    "Employer": "TNAA TotalMed RN",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-54759794",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Nursing Aide",
-    "Location": "Hazard, KY 41701",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/36919/nursing-aide/job?in_iframe=1",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
-  },
-  {
-    "Job Title": "Laboratory Assistant/USW",
-    "Location": "Whitesburg, KY 41858",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/36889/laboratory-assistant-usw/job?in_iframe=1",
-    "Occupation Name": "Medical and Clinical Laboratory Technicians",
-    "SOC": "29-2012.00"
-  },
-  {
-    "Job Title": "Registered Ultrasound Tech",
-    "Location": "Hazard, KY 41701",
-    "Employer": "Appalachian Regional Healthcare",
-    "Wage": "0",
-    "Url": "https://careers-arh.icims.com/jobs/36867/registered-ultrasound-tech/job?in_iframe=1",
-    "Occupation Name": "Diagnostic Medical Sonographers",
-    "SOC": "29-2032.00"
-  },
-  {
-    "Job Title": "Travel Nurse - Operating Room",
-    "Location": "Grayson, Kentucky",
-    "Employer": "Welly Health PBC",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355921004/",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "PA or Nurse Practitioner - Orthopedics",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "IDS Health, Inc",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4366818039/",
-    "Occupation Name": "Nurse Practitioners",
-    "SOC": "29-1171.00"
-  },
-  {
-    "Job Title": "CDL Class B Route Driver",
-    "Location": "London, Kentucky",
-    "Employer": "Airgas USA, LLC",
-    "Wage": "0",
-    "Url": "https://www.oriontalent.com/search-jobs/career/11576752/cdl-class-b-route-driver-kentucky-ky-london",
-    "Occupation Name": "Driver/Sales Workers",
-    "SOC": "53-3031.00"
-  },
-  {
-    "Job Title": "Travel Nurse - Operating Room - Full-Time",
-    "Location": "Paintsville, Kentucky",
-    "Employer": "Tipton Health",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355821690/",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Travel Nurse - Registered Nurse - Long Term Acute Care",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Rosaires Care",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355296863/",
-    "Occupation Name": "Acute Care Nurses",
-    "SOC": "29-1141.01"
-  },
-  {
-    "Job Title": "Travel Ultrasound Tech",
-    "Location": "Pikeville, Kentucky",
-    "Employer": "Health Care Administrators Association� (HCAA)",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4363488195/",
-    "Occupation Name": "Diagnostic Medical Sonographers",
-    "SOC": "29-2032.00"
-  },
-  {
-    "Job Title": "Travel Nurse - RN - Medical Surgical",
-    "Location": "Hyden, Kentucky",
-    "Employer": "Rosaires Care",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355620689/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Travel Nurse - RN - Telemetry",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Rosaires Care",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355543672/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Travel Speech Language Pathologist (SLP)",
+    "Job Title": "Travel Speech Language Pathologist job in Middlesboro, KY - Make $2362 to $2555/week",
     "Location": "Middlesboro, Kentucky",
-    "Employer": "Health Marketing",
+    "Employer": "Aya Healthcare",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4321404732/",
+    "Url": "https://www.linkedin.com/jobs/view/4368828095/",
     "Occupation Name": "Speech-Language Pathologists",
     "SOC": "29-1127.00"
   },
   {
-    "Job Title": "Travel CVOR Tech - Weekly Pay Range",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Personal Touch Home Health Care Services Inc.",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4321376331/",
-    "Occupation Name": "Surgical Technologists",
-    "SOC": "29-2055.00"
-  },
-  {
-    "Job Title": "Underground Laborer",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Couey's Advanced Telecommunications Venture LLC",
-    "Wage": "$41,111",
-    "Url": "https://www.linkedin.com/jobs/view/4321059825/",
-    "Occupation Name": "Construction Laborers",
-    "SOC": "47-2061.00"
-  },
-  {
-    "Job Title": "Staff Attorney I",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Commonwealth of Kentucky",
-    "Wage": "$54,314",
-    "Url": "https://www.linkedin.com/jobs/view/4363494585/",
-    "Occupation Name": "Lawyers",
-    "SOC": "23-1011.00"
-  },
-  {
-    "Job Title": "Travel Nurse - RN - Medical Surgical",
-    "Location": "McDowell, KY",
-    "Employer": "Rosaires Care",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355416663/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Expanded Duties Dental Assistant",
-    "Location": "Irvine, Kentucky",
-    "Employer": "White House Clinics",
-    "Wage": "$34,455",
-    "Url": "https://www.linkedin.com/jobs/view/4365618414/",
-    "Occupation Name": "Dental Assistants",
-    "SOC": "31-9091.00"
-  },
-  {
-    "Job Title": "Loader Operator",
-    "Location": "Olive Hill, KY, US, 41164",
-    "Employer": "Mountain Materials Inc",
-    "Wage": "0",
-    "Url": "https://jobs.crh.com/CRH_Americas/job/Olive-Hill-Loader-Operator-KY-41164/1286860201/",
-    "Occupation Name": "Tank Car, Truck, and Ship Loaders",
-    "SOC": "53-7121.00"
-  },
-  {
-    "Job Title": "Dentist",
+    "Job Title": "EMT Advanced",
     "Location": "41501",
-    "Employer": "All Medical Personnel",
-    "Wage": "0",
-    "Url": "http://jobs.allmedical.com/jb/Dentist-Jobs-in-Eastern-Kentucky-KY/13658088",
-    "Occupation Name": "Dentists, General",
-    "SOC": "29-1021.00"
+    "Employer": "Global Medical Response",
+    "Wage": "$32,760",
+    "Url": "https://gmr.jibeapply.com/jobs/55538?city=Pikeville&state=Kentucky&country=United States&country_code=US&latitude=37.5161&longitude=-82.5173",
+    "Occupation Name": "Emergency Medical Technicians",
+    "SOC": "29-2042.00"
   },
   {
-    "Job Title": "Human Resources/Staff Training Assistant",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Insights Training Group, LLC",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4362190686/",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "Principal Full Stack Engineer  Payments & eCommerce",
-    "Location": "London, Kentucky",
-    "Employer": "Saransh Inc",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4365092409/",
-    "Occupation Name": "Software Developers",
-    "SOC": "15-1252.00"
-  },
-  {
-    "Job Title": "Executive/HR Assistant",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Grace Health",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4365173801/",
-    "Occupation Name": "Human Resources Specialists",
-    "SOC": "13-1071.00"
-  },
-  {
-    "Job Title": "ICU RN - Nights",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Amergis",
-    "Wage": "0",
-    "Url": "https://www.amergis.com/job/926896-icu-rn-nights-harlan-ky/",
-    "Occupation Name": "Acute Care Nurses",
-    "SOC": "29-1141.01"
-  },
-  {
-    "Job Title": "Forensic Chemist I",
-    "Location": "London, Kentucky",
-    "Employer": "Commonwealth of Kentucky",
-    "Wage": "$50,000",
-    "Url": "https://www.linkedin.com/jobs/view/4362560874/",
-    "Occupation Name": "Chemists",
-    "SOC": "19-2031.00"
-  },
-  {
-    "Job Title": "Travel Nurse RN - Cardiac Cath Lab",
+    "Job Title": "RN - CCU",
     "Location": "Pikeville, Kentucky",
-    "Employer": "LanceSoft",
+    "Employer": "Cynet Health Inc",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-54626691",
+    "Url": "https://nexus-leap.laboredge.com/cynethealth/job-details-view/35391264",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Acute Care Physical Therapist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Uniti Med",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/1233-771498",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
+    "Job Title": "Pharmacy Technician / Pharm Tech Apprenticeship",
+    "Location": "1775 HIGHWAY 192 W,LONDON,KY,40741",
+    "Employer": "Walgreens",
+    "Wage": "$34,320",
+    "Url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=1795547&partnerid=26336&siteid=5014",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
   },
   {
-    "Job Title": "Travel Physical Therapist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "Triage Staffing",
+    "Job Title": "Dietician",
+    "Location": "270 E Clayton Ln, Louisa, KY, 41230",
+    "Employer": "Venza Care Management LLC",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/93-L4RFD4RF",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
+    "Url": "https://jobs.chattr.ai/venzacare/330c2074-6b26-48ad-980b-88650876fe8d",
+    "Occupation Name": "Dietitians and Nutritionists",
+    "SOC": "29-1031.00"
   },
   {
-    "Job Title": "Travel Physical Therapist",
-    "Location": "Prestonsburg, Kentucky",
-    "Employer": "AHS Staffing",
+    "Job Title": "Field Technician - ONSITE - 10:00am - 6:30PM shift",
+    "Location": "Corbin, Kentucky",
+    "Employer": "General Dynamics Information Technology",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/88-2348576",
-    "Occupation Name": "Physical Therapists",
-    "SOC": "29-1123.00"
+    "Url": "https://gdit.wd5.myworkdayjobs.com/GDIT_Empl_Ref/job/USA-KY-Corbin/Field-Technician---ONSITE---10-00am---6-30PM-shift_RQ214124-2",
+    "Occupation Name": "Maintenance and Repair Workers, General",
+    "SOC": "49-9071.00"
   },
   {
-    "Job Title": "Travel CVOR Technologist",
+    "Job Title": "EMT Basic",
+    "Location": "41653",
+    "Employer": "Global Medical Response",
+    "Wage": "$29,120",
+    "Url": "https://gmr.jibeapply.com/jobs/55540?city=Prestonsburg&state=Kentucky&country=United States&country_code=US&latitude=37.661&longitude=-82.7636",
+    "Occupation Name": "Emergency Medical Technicians",
+    "SOC": "29-2042.00"
+  },
+  {
+    "Job Title": "Licensed Optician FT London, KY #317",
+    "Location": "London, Kentucky",
+    "Employer": "Eyemart Express",
+    "Wage": "0",
+    "Url": "http://eyemartexpress.hrmdirect.com/employment/view.php?req=3630002",
+    "Occupation Name": "Opticians, Dispensing",
+    "SOC": "29-2081.00"
+  },
+  {
+    "Job Title": "Phlebotomist",
+    "Location": "LONDON, KY 40741",
+    "Employer": "Dignity Health",
+    "Wage": "$33,267",
+    "Url": "https://careers-commonspirit.icims.com/jobs/453664/phlebotomist/job?in_iframe=1",
+    "Occupation Name": "Phlebotomists",
+    "SOC": "31-9097.00"
+  },
+  {
+    "Job Title": "Paramedic",
+    "Location": "40831",
+    "Employer": "Global Medical Response",
+    "Wage": "$42,640",
+    "Url": "https://gmr.jibeapply.com/jobs/55529?city=Harlan&state=Kentucky&country=United States&country_code=US&latitude=36.7596&longitude=-83.3499",
+    "Occupation Name": "Paramedics",
+    "SOC": "29-2043.00"
+  },
+  {
+    "Job Title": "Buyer Assistant",
+    "Location": "South Williamson, KY 41503",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37077/buyer-assistant/job?in_iframe=1",
+    "Occupation Name": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+    "SOC": "13-1023.00"
+  },
+  {
+    "Job Title": "Paramedic",
+    "Location": "41501",
+    "Employer": "Global Medical Response",
+    "Wage": "$42,640",
+    "Url": "https://gmr.jibeapply.com/jobs/55539?city=Pikeville&state=Kentucky&country=United States&country_code=US&latitude=37.5161&longitude=-82.5173",
+    "Occupation Name": "Paramedics",
+    "SOC": "29-2043.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Telemetry",
+    "Location": "Hazard, Kentucky",
+    "Employer": "American Traveler Staffing Professionals",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/1170-P-667171",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Medical Assistant-Non Union Highlands",
+    "Location": "Prestonsburg, KY 41653",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37044/medical-assistant-non-union-highlands/job?in_iframe=1",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "Cardiac Sonography Student PRN",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Cardiac-Sonography-Student-PRN_R25095455",
+    "Occupation Name": "Diagnostic Medical Sonographers",
+    "SOC": "29-2032.00"
+  },
+  {
+    "Job Title": "Pharmacy Technician",
+    "Location": "McDowell, KY 41647",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37070/pharmacy-technician/job?in_iframe=1",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Cardiology",
     "Location": "Pikeville, Kentucky",
-    "Employer": "LanceSoft",
+    "Employer": "Seven Healthcare",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-54626881",
+    "Url": "https://www.vivian.com/job/2315-543234765",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier 1 ER",
+    "Location": "Prestonsburg, KY 41653",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37095/registered-nurse-tier-1-er/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Cath Lab Tech - Travel Job",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Jackson Therapy Partners",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368164708/",
     "Occupation Name": "Cardiovascular Technologists and Technicians",
     "SOC": "29-2031.00"
   },
   {
-    "Job Title": "Telemetry Registered Nurse II",
-    "Location": "Middlesboro, Kentucky",
-    "Employer": "Jackson Nurse Professionals",
+    "Job Title": "Ultrasound Technologist PRN - Marcum & Wallace Hospital",
+    "Location": "Irvine, Kentucky",
+    "Employer": "Mercy Health",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/984-1601892",
+    "Url": "https://easyservice.wd5.myworkdayjobs.com/MercyHealthCareers/job/Irvine-KY/Ultrasound-Technologist-PRN---Marcum---Wallace-Hospital_R264769",
+    "Occupation Name": "Diagnostic Medical Sonographers",
+    "SOC": "29-2032.00"
+  },
+  {
+    "Job Title": "River Engineer 4",
+    "Location": "Catlettsburg, Kentucky",
+    "Employer": "Marathon Petroleum Corporation",
+    "Wage": "0",
+    "Url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Catlettsburg-Kentucky/River-Engineer-4_00020298",
+    "Occupation Name": "Captains, Mates, and Pilots of Water Vessels",
+    "SOC": "53-5021.00"
+  },
+  {
+    "Job Title": "Field Services Technician-Sandy Hook",
+    "Location": "Sandy Hook, Kentucky",
+    "Employer": "TEKsystems, Inc",
+    "Wage": "$37,440",
+    "Url": "https://careers.teksystems.com/us/en/job/JP-005804933/Field-Services-Technician-Sandy-Hook",
+    "Occupation Name": "Computer User Support Specialists",
+    "SOC": "15-1232.00"
+  },
+  {
+    "Job Title": "Pharmacy Technician",
+    "Location": "Harlan, Kentucky",
+    "Employer": "CVS",
+    "Wage": "0",
+    "Url": "https://jobs.cvshealth.com/us/en/job/R0826243/",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
+  },
+  {
+    "Job Title": "Physical Therapist - Travel Contract",
+    "Location": "South Williamson, Kentucky",
+    "Employer": "Jackson Therapy Partners",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368172672/",
+    "Occupation Name": "Physical Therapists",
+    "SOC": "29-1123.00"
+  },
+  {
+    "Job Title": "Speech Language Pathologist",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System",
+    "Wage": "0",
+    "Url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Corbin-KY/Speech-Language-Pathologist_R26097257",
+    "Occupation Name": "Speech-Language Pathologists",
+    "SOC": "29-1127.00"
+  },
+  {
+    "Job Title": "patient care tech preceptor",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fresenius Medical Care",
+    "Wage": "0",
+    "Url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Pikeville-KY-USA/patient-care-tech-preceptor_R0238476",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "RN - MS/TELE",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Assured Nursing, Inc.",
+    "Wage": "0",
+    "Url": "https://nexus-leap.laboredge.com/Assured/job-details-view/35722634",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Med/Surg Registered Nurse",
-    "Location": "McDowell, KY",
+    "Job Title": "CDL-A - Regional Van Truckload truck driver",
+    "Location": "Morehead, Kentucky",
+    "Employer": "SCHNEIDER ELECTRIC",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369261928/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Nurse Extern Tier II",
+    "Location": "Whitesburg, KY 41858",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37069/nurse-extern-tier-ii/job?in_iframe=1",
+    "Occupation Name": "Nursing Assistants",
+    "SOC": "31-1131.00"
+  },
+  {
+    "Job Title": "Outpatient Patient Care Technician - PCT",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Fresenius Medical Care",
+    "Wage": "0",
+    "Url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Jackson-KY/Area-Float-Patient-care-tech_R0233626",
+    "Occupation Name": "Health Technologists and Technicians, All Other",
+    "SOC": "29-2099.00"
+  },
+  {
+    "Job Title": "Full-Time Nabisco Merchandiser/Order Writer",
+    "Location": "Morehead, Kentucky",
+    "Employer": "Mondelez International",
+    "Wage": "$31,934",
+    "Url": "https://www.linkedin.com/jobs/view/4368385154/",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "Full Stack Engineer",
+    "Location": "London, Kentucky",
+    "Employer": "Sensiple Inc.",
+    "Wage": "0",
+    "Url": "https://www.dice.com/job-detail/86ce4da9-9fe9-49fb-8fd8-dcb2e39d8d55",
+    "Occupation Name": "Web Developers",
+    "SOC": "15-1254.00"
+  },
+  {
+    "Job Title": "Certified Medical Assistant II",
+    "Location": "LONDON, KY 40741",
+    "Employer": "Dignity Health",
+    "Wage": "$40,300",
+    "Url": "https://careers-commonspirit.icims.com/jobs/444081/certified-medical-assistant-ii/job?in_iframe=1",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "Regional Truck Drivers",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Epes Transport System, LLC",
+    "Wage": "$73,559",
+    "Url": "https://www.linkedin.com/jobs/view/4367818494/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Dietitian PRN - Food Service - Marcum & Wallace Hospital",
+    "Location": "Irvine, Kentucky",
+    "Employer": "Mercy Health",
+    "Wage": "0",
+    "Url": "https://easyservice.wd5.myworkdayjobs.com/MercyHealthCareers/job/Irvine-KY/Dietitian-PRN---Food-Service---Marcum---Wallace-Hospital_R264490",
+    "Occupation Name": "Dietitians and Nutritionists",
+    "SOC": "29-1031.00"
+  },
+  {
+    "Job Title": "Registered Nurse Medical-Surgical Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Assured Nursing",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/200-35722634",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Registered Nurse Tier 1 ER",
+    "Location": "Prestonsburg, KY 41653",
+    "Employer": "Appalachian Regional Healthcare",
+    "Wage": "0",
+    "Url": "https://careers-arh.icims.com/jobs/37096/registered-nurse-tier-1-er/job?in_iframe=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Pharmacist",
+    "Location": "Corbin, Kentucky",
+    "Employer": "Baptist Health System KY & IN",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368026936/",
+    "Occupation Name": "Pharmacists",
+    "SOC": "29-1051.00"
+  },
+  {
+    "Job Title": "Dental Assistant",
+    "Location": "Salt Lick, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4357422331/",
+    "Occupation Name": "Dental Assistants",
+    "SOC": "31-9091.00"
+  },
+  {
+    "Job Title": "Licensed Land Surveyor | Land Surveying Manager",
+    "Location": "Middlesboro, Kentucky",
+    "Employer": "Macpower Digitial Assets",
+    "Wage": "0",
+    "Url": "https://www1.jobdiva.com/portal/?a=0xjdnwe7mdf9bjdcrprtwgxidtyqq109fbyx636svshwn20bwotd64qv8l75vc1a&compid=0#/jobs/30496409",
+    "Occupation Name": "Surveyors",
+    "SOC": "17-1022.00"
+  },
+  {
+    "Job Title": "Physical Therapist - Travel Contract",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Jackson Therapy Partners",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368173574/",
+    "Occupation Name": "Physical Therapists",
+    "SOC": "29-1123.00"
+  },
+  {
+    "Job Title": "Travel ICU RN",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Fusion Medical Staffing",
+    "Wage": "0",
+    "Url": "https://www.healthecareers.com/job/travel-icu-rn/13200767",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Patient Care Technician - PCT",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Fresenius Medical Care",
+    "Wage": "0",
+    "Url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Hazard-KY/Patient-Care-Technician---PCT_R0236850-1",
+    "Occupation Name": "Health Technologists and Technicians, All Other",
+    "SOC": "29-2099.00"
+  },
+  {
+    "Job Title": "Nurse Practitioner for In-home Visits",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Signify Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4367976902/",
+    "Occupation Name": "Nurse Practitioners",
+    "SOC": "29-1171.00"
+  },
+  {
+    "Job Title": "Fulfillment Specialist",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Fastenal",
+    "Wage": "0",
+    "Url": "https://jobs.fastenal.com/details/616703",
+    "Occupation Name": "Stockers and Order Fillers",
+    "SOC": "53-7065.00"
+  },
+  {
+    "Job Title": "Agriculture Equipment Technician - Road and Shop",
+    "Location": "Pride, KY",
+    "Employer": "Hutson, Inc",
+    "Wage": "$48,942",
+    "Url": "https://www.linkedin.com/jobs/view/4367754911/",
+    "Occupation Name": "Farm Equipment Mechanics and Service Technicians",
+    "SOC": "49-3041.00"
+  },
+  {
+    "Job Title": "Dental Assistant",
+    "Location": "Raven, Kentucky",
+    "Employer": "Toothio",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4357119627/",
+    "Occupation Name": "Dental Assistants",
+    "SOC": "31-9091.00"
+  },
+  {
+    "Job Title": "Academic Instructor",
+    "Location": "BEATTYVILLE, KY, 41311",
+    "Employer": "CoreCivic",
+    "Wage": "$51,418",
+    "Url": "https://jobs.corecivic.com/us/en/job/req31720",
+    "Occupation Name": "Career/Technical Education Teachers, Postsecondary",
+    "SOC": "25-1194.00"
+  },
+  {
+    "Job Title": "Technician - Agricultural Equipment",
+    "Location": "Winslow, KY",
+    "Employer": "Hutson, Inc",
+    "Wage": "$48,942",
+    "Url": "https://www.linkedin.com/jobs/view/4368766778/",
+    "Occupation Name": "Farm Equipment Mechanics and Service Technicians",
+    "SOC": "49-3041.00"
+  },
+  {
+    "Job Title": "MEAT CLERK",
+    "Location": "Barbourville, Kentucky",
+    "Employer": "Houchens Food Group",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4367692825/",
+    "Occupation Name": "Butchers and Meat Cutters",
+    "SOC": "51-3021.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Med Surg",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Uniti Med",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/1233-774581",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Locum | Physician Obstetrics and Gynecology",
+    "Location": "Manchester, Kentucky",
+    "Employer": "CompHealth",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4356902694/",
+    "Occupation Name": "Obstetricians and Gynecologists",
+    "SOC": "29-1218.00"
+  },
+  {
+    "Job Title": "Registered Nurse (RN)- Accreditation & Pathways Coordinator",
+    "Location": "40962",
+    "Employer": "AdventHealth",
+    "Wage": "0",
+    "Url": "https://jobs.adventhealth.com/manchester-ky/registered-nurse-rn-accreditation-pathways-coordinator/B309078010AD4181A519224F02D5B6BE/job/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Mortgage Field Services Inspector",
+    "Location": "Salyersville, Kentucky",
+    "Employer": "FAR INSPECTIONS",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4355785865/",
+    "Occupation Name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "SOC": "51-9061.00"
+  },
+  {
+    "Job Title": "Assistant District Attorney  Child Support",
+    "Location": "Carter, Kentucky",
+    "Employer": "State of Oklahoma",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4367545976/",
+    "Occupation Name": "Lawyers",
+    "SOC": "23-1011.00"
+  },
+  {
+    "Job Title": "LPN Clinic Non-Union",
+    "Location": "Paintsville, Kentucky",
+    "Employer": "Appalachian Regional Healthcare (ARH)",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4367621687/",
+    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
+    "SOC": "29-2061.00"
+  },
+  {
+    "Job Title": "Solo & Team Owner Operators",
+    "Location": "Inez, Kentucky",
+    "Employer": "J. Boren & Sons Trucking",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369482796/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Solo & Team Owner Operators",
+    "Location": "Oven Fork, Kentucky",
+    "Employer": "J. Boren & Sons Trucking",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369477900/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Training & Development Manager",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Community Trust Bank",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4356851576/",
+    "Occupation Name": "Training and Development Specialists",
+    "SOC": "13-1151.00"
+  },
+  {
+    "Job Title": "CMA Specialty Float - FT",
+    "Location": "40962",
+    "Employer": "AdventHealth",
+    "Wage": "0",
+    "Url": "https://jobs.adventhealth.com/manchester-ky/cma-specialty-float-ft/5FCE2A47C165460CB9A3654A37C1F481/job/",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Med Surg",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Gifted Healthcare",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/142-3972d",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Critical Care ICU Registered Nurse",
+    "Location": "Prestonsburg, Kentucky",
     "Employer": "CoreMedical Group",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/145-1351494",
+    "Url": "https://www.vivian.com/job/145-1354403",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "CNA",
+    "Location": "544 Lone Oak Rd, Paducah, KY, United States",
+    "Employer": "Life Care Centers of America",
+    "Wage": "0",
+    "Url": "https://lifecarecareers.hcshiring.com/jobs/NFqYI3f6I0ylRdT2BDffqg",
+    "Occupation Name": "Nursing Assistants",
+    "SOC": "31-1131.00"
+  },
+  {
+    "Job Title": "store driver",
+    "Location": "6079 US Route 60, Ashland, KY  41102",
+    "Employer": "Advance Auto Parts",
+    "Wage": "0",
+    "Url": "https://advanceauto.wd5.myworkdayjobs.com/AdvanceExternalCareers/job/6079-US-Route-60-Ashland-KY--41102/store-driver_R-0569159",
+    "Occupation Name": "Light Truck Drivers",
+    "SOC": "53-3033.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - Med Surg / Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "AHS Staffing",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/88-2352982",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "General Production - 2nd shift",
+    "Location": "Middlesboro, Kentucky",
+    "Employer": "Smithfield Foods",
+    "Wage": "$35,568",
+    "Url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Middlesboro-KY/General-Production---2nd-shift_R-2026-105",
+    "Occupation Name": "Production Workers, All Other",
+    "SOC": "51-9199.00"
+  },
+  {
+    "Job Title": "Pharmacy Technician",
+    "Location": "London, Kentucky",
+    "Employer": "CVS",
+    "Wage": "0",
+    "Url": "https://jobs.cvshealth.com/us/en/job/R0813807/",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
+  },
+  {
+    "Job Title": "Acute Rehab RN",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Uniti Med",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/1233-774461",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Patient Access Representative",
+    "Location": "London, Kentucky",
+    "Employer": "Grace Health",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4365566126/",
+    "Occupation Name": "Patient Representatives",
+    "SOC": "29-2099.08"
+  },
+  {
+    "Job Title": "Medical ICU Registered Nurse",
+    "Location": "Harlan, Kentucky",
+    "Employer": "Jackson Nurse Professionals",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/984-2434614",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Sales Trainee",
+    "Location": "London, Kentucky",
+    "Employer": "Red Bull North America",
+    "Wage": "0",
+    "Url": "https://jobs.localjobnetwork.com/job/detail/86144637/Sales-Trainee",
+    "Occupation Name": "Driver/Sales Workers",
+    "SOC": "53-3031.00"
+  },
+  {
+    "Job Title": "Private Swim Instructor",
+    "Location": "Irvine, Kentucky",
+    "Employer": "InstaSwim",
+    "Wage": "$83,200",
+    "Url": "https://www.linkedin.com/jobs/view/4367044562/",
+    "Occupation Name": "Self-Enrichment Teachers",
+    "SOC": "25-3021.00"
+  },
+  {
+    "Job Title": "Locum Tenens Physician Assistant - Obstetrics / Gynecology",
+    "Location": "Middlesboro, Kentucky",
+    "Employer": "TheraEX Staffing Services",
+    "Wage": "$312,000",
+    "Url": "https://www.vivian.com/job/jp-54922438",
+    "Occupation Name": "Obstetricians and Gynecologists",
+    "SOC": "29-1218.00"
+  },
+  {
+    "Job Title": "RN CVICU | $2578/week!",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Amergis",
+    "Wage": "0",
+    "Url": "https://www.amergis.com/job/928640-rn-cvicu-2578week-hazard-ky/",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - CVICU",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Amergis Healthcare Staffing, Inc.",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/13665-1084311",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
     "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "Fusion Medical Staffing-Nursing",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/101-1865149",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Store Scanning Specialist",
     "Location": "Harlan, Kentucky",
-    "Employer": "Triage Staffing",
+    "Employer": "RDSolutions",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/93-QEPTL3XU",
-    "Occupation Name": "Critical Care Nurses",
-    "SOC": "29-1141.03"
-  },
-  {
-    "Job Title": "Medical-Surgical Registered Nurse",
-    "Location": "Hyden, Kentucky",
-    "Employer": "Medical Solutions",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/143-1043577",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Nursing Associate - Neuro Rehab Ward",
-    "Location": "Wellington, Kentucky",
-    "Employer": "Lister Fertility Clinic",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4363425688/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Certified Nurse Assistant",
-    "Location": "Irvine, Kentucky",
-    "Employer": "IRVINE NURSING AND REHABILITATION CENTER",
-    "Wage": "$33,280",
-    "Url": "https://www.linkedin.com/jobs/view/4359089962/",
-    "Occupation Name": "Nursing Assistants",
-    "SOC": "31-1131.00"
-  },
-  {
-    "Job Title": "Medical ICU Registered Nurse",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Malone Healthcare - Nursing",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-54556239",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Travel Nurse RN - Med Surg / Telemetry",
-    "Location": "Middlesboro, Kentucky",
-    "Employer": "AHS Staffing",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/88-2348113",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Travel MS/Tele RN job in Harlan, KY - Make $2060 to $2220/week (Job #3169419)",
-    "Location": "Harlan, Kentucky",
-    "Employer": "Aya Healthcare, Inc.",
-    "Wage": "0",
-    "Url": "https://jobs.localjobnetwork.com/job/detail/86034835/Travel-MS-Tele-RN-job-in-Harlan-KY-Make-2060-to-2220-week-Job-3169419",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "RN PRN",
-    "Location": "Corbin, Kentucky",
-    "Employer": "Community Hospital Corporation",
-    "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4362764761/",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Online Order Filling Team Associate",
-    "Location": "Louisa, Kentucky",
-    "Employer": "Walmart",
-    "Wage": "$33,893",
-    "Url": "https://www.linkedin.com/jobs/view/4363788839/",
+    "Url": "https://rdsolutionscareers.workgr8.com/jobs/51527/store-scanning-specialist",
     "Occupation Name": "Stockers and Order Fillers",
     "SOC": "53-7065.00"
   },
   {
-    "Job Title": "Travel Nurse RN - Med Surg",
-    "Location": "Hyden, Kentucky",
-    "Employer": "American Traveler Staffing Professionals",
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Prestonsburg, Kentucky",
+    "Employer": "THP Healthcare Staffing",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/1170-P-660724",
+    "Url": "https://www.vivian.com/job/17101-17764620",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Inpatient Pharmacist",
+    "Job Title": "Independent Insurance Claims Adjuster in Morehead, Kentucky",
     "Location": "Morehead, Kentucky",
-    "Employer": "St. Claire HealthCare",
+    "Employer": "MileHigh Adjusters Houston",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4354460298/",
-    "Occupation Name": "Pharmacists",
-    "SOC": "29-1051.00"
+    "Url": "https://www.linkedin.com/jobs/view/4366793867/",
+    "Occupation Name": "Claims Adjusters, Examiners, and Investigators",
+    "SOC": "13-1031.00"
   },
   {
-    "Job Title": "Travel Nurse RN - Med Surg / Telemetry",
-    "Location": "Hyden, Kentucky",
-    "Employer": "AHS Staffing",
+    "Job Title": "Certified Occupational Therapy Assistant",
+    "Location": "Irvine, Kentucky",
+    "Employer": "Worcester Education Collaborative",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/88-2347284",
+    "Url": "https://www.linkedin.com/jobs/view/4367408780/",
+    "Occupation Name": "Occupational Therapy Assistants",
+    "SOC": "31-2011.00"
+  },
+  {
+    "Job Title": "Registered Nurse Medical-Surgical Telemetry",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "TNAA TotalMed RN",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/jp-54894286",
     "Occupation Name": "Registered Nurses",
     "SOC": "29-1141.00"
   },
   {
-    "Job Title": "Med/Surg Registered Nurse",
-    "Location": "Hyden, Kentucky",
-    "Employer": "CoreMedical Group",
+    "Job Title": "Principal Product Designer",
+    "Location": "Canada, Kentucky",
+    "Employer": "Function Health",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/145-1351262",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
+    "Url": "https://www.linkedin.com/jobs/view/4366539963/",
+    "Occupation Name": "Web and Digital Interface Designers",
+    "SOC": "15-1255.00"
   },
   {
-    "Job Title": "Medical-Surgical Telemetry RN",
-    "Location": "Hyden, Kentucky",
-    "Employer": "Genie Healthcare",
-    "Wage": "0",
-    "Url": "https://www.vivian.com/job/430-17708852",
-    "Occupation Name": "Registered Nurses",
-    "SOC": "29-1141.00"
-  },
-  {
-    "Job Title": "Reg Resp Therapist PRN (Any Shift)",
+    "Job Title": "Float Pool Nursing Assistant",
     "Location": "Corbin, Kentucky",
-    "Employer": "Community Hospital Corporation",
+    "Employer": "Baptist Health",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4362755972/",
-    "Occupation Name": "Respiratory Therapists",
-    "SOC": "29-1126.00"
+    "Url": "https://jobs.localjobnetwork.com/job/detail/86124982/Float-Pool-Nursing-Assistant",
+    "Occupation Name": "Nursing Assistants",
+    "SOC": "31-1131.00"
   },
   {
-    "Job Title": "Theatre Practitioner  Recovery",
-    "Location": "Wellington, Kentucky",
-    "Employer": "Lister Fertility Clinic",
+    "Job Title": "Mortgage Field Services Inspector",
+    "Location": "Sandy Hook, Kentucky",
+    "Employer": "FAR INSPECTIONS",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4354761456/",
+    "Url": "https://www.linkedin.com/jobs/view/4355705838/",
+    "Occupation Name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "SOC": "51-9061.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - OR - Operating Room",
+    "Location": "Jackson, Kentucky",
+    "Employer": "Cross Country Nurses",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/915-1218110",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Environmental Scientist I",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Commonwealth of Kentucky",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4363426017/",
+    "Occupation Name": "Environmental Scientists and Specialists, Including Health",
+    "SOC": "19-2041.00"
+  },
+  {
+    "Job Title": "Nurse Practitioner",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Behavioral Health Group - BHG",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4356155296/",
     "Occupation Name": "Nurse Practitioners",
     "SOC": "29-1171.00"
   },
   {
-    "Job Title": "Insurance Loss Control Surveyor",
-    "Location": "Hazard, Kentucky",
-    "Employer": "Davies North America",
+    "Job Title": "Licensed Practical Nurse and/or Medical Assistant - Certified",
+    "Location": "Morehead, Kentucky",
+    "Employer": "St. Claire HealthCare",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4355070847/",
-    "Occupation Name": "Surveyors",
-    "SOC": "17-1022.00"
+    "Url": "https://www.linkedin.com/jobs/view/4356045448/",
+    "Occupation Name": "Licensed Practical and Licensed Vocational Nurses",
+    "SOC": "29-2061.00"
   },
   {
-    "Job Title": "Travel Nurse RN - Cardiac Cath Lab",
-    "Location": "TEST, KY",
-    "Employer": "TNAA TotalMed RN",
+    "Job Title": "Internal Medicine Physician",
+    "Location": "London, Kentucky",
+    "Employer": "CHI",
     "Wage": "0",
-    "Url": "https://www.vivian.com/job/jp-53936478",
+    "Url": "https://www.linkedin.com/jobs/view/4355739866/",
+    "Occupation Name": "General Internal Medicine Physicians",
+    "SOC": "29-1216.00"
+  },
+  {
+    "Job Title": "Informatics Analyst Senior - Pharmacy",
+    "Location": "Morehead, Kentucky",
+    "Employer": "St. Claire HealthCare",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4366215465/",
+    "Occupation Name": "Health Informatics Specialists",
+    "SOC": "15-1211.01"
+  },
+  {
+    "Job Title": "Caregiver",
+    "Location": "Louisa, KY 41230, USA",
+    "Employer": "The Mentor Network",
+    "Wage": "0",
+    "Url": "https://jobs.dayforcehcm.com/en-US/tmn/CANDIDATEPORTAL/jobs/596069",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Medical ICU Registered Nurse",
+    "Location": "Harlan, Kentucky",
+    "Employer": "Uniti Med",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/1233-770998",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Caregiver",
+    "Location": "Louisa, KY 41230, USA",
+    "Employer": "The Mentor Network",
+    "Wage": "0",
+    "Url": "https://jobs.dayforcehcm.com/en-US/tmn/CANDIDATEPORTAL/jobs/596059",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Cardiac RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "Revolution Healthcare Services",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/2655-17746319",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Locum | Physician Radiology",
+    "Location": "Hazard, Kentucky",
+    "Employer": "CompHealth",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4353696420/",
+    "Occupation Name": "Physicians, All Other",
+    "SOC": "29-1229.00"
+  },
+  {
+    "Job Title": "Cardiac Cath Lab RN",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "GetMed Staffing, Inc.",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/2611-35638300",
     "Occupation Name": "Cardiovascular Technologists and Technicians",
     "SOC": "29-2031.00"
   },
   {
-    "Job Title": "CDL-A Truck Driver",
-    "Location": "North Corbin, KY",
-    "Employer": "McElroy Truck Lines Inc",
+    "Job Title": "Medical Assistant",
+    "Location": "Pikeville, Kentucky",
+    "Employer": "TapestryHealth",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4356605614/",
+    "Url": "https://www.linkedin.com/jobs/view/4365122083/",
+    "Occupation Name": "Medical Assistants",
+    "SOC": "31-9092.00"
+  },
+  {
+    "Job Title": "Physician General Surgery",
+    "Location": "Jackson, Kentucky",
+    "Employer": "CompHealth",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4353855754/",
+    "Occupation Name": "Surgeons, All Other",
+    "SOC": "29-1249.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Harlan, Kentucky",
+    "Employer": "Fusion Medical Staffing-Nursing",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/101-1859651",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Critical Care ICU Registered Nurse",
+    "Location": "Harlan, Kentucky",
+    "Employer": "CoreMedical Group",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/145-1351464",
+    "Occupation Name": "Critical Care Nurses",
+    "SOC": "29-1141.03"
+  },
+  {
+    "Job Title": "Pharmacy Technician / Pharm Tech Apprenticeship",
+    "Location": "14659 N US HIGHWAY 25 E,STE C,CORBIN,KY,40701",
+    "Employer": "Walgreens",
+    "Wage": "$34,320",
+    "Url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=1788327&partnerid=26336&siteid=5014",
+    "Occupation Name": "Pharmacy Technicians",
+    "SOC": "29-2052.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Harlan, Kentucky",
+    "Employer": "THP Healthcare Staffing",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/17101-17711744",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Behavioral Health House Nurse Coordinator",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Genie Healthcare",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/430-17708316",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Automation Engineer/Technologist",
+    "Location": "Morehead, Kentucky",
+    "Employer": "TC Energy",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4353072614/",
+    "Occupation Name": "Electrical and Electronic Engineering Technologists and Technicians",
+    "SOC": "17-3023.00"
+  },
+  {
+    "Job Title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "Location": "Hazard, Kentucky",
+    "Employer": "Advantis Medical",
+    "Wage": "0",
+    "Url": "https://www.vivian.com/job/453-784993",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
+  },
+  {
+    "Job Title": "Solo & Team Owner Operators",
+    "Location": "Wolf, Kentucky",
+    "Employer": "J. Boren & Sons Trucking",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4369488619/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Owner Operator - Solo & Established Teams - No Touch Freight",
+    "Location": "Ironville, KY",
+    "Employer": "J. Boren & Sons Trucking",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368118113/",
+    "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
+    "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "Caregiver",
+    "Location": "Louisa, KY 41230, USA",
+    "Employer": "The Mentor Network",
+    "Wage": "0",
+    "Url": "https://jobs.dayforcehcm.com/en-US/tmn/CANDIDATEPORTAL/jobs/587395",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Owner Operator - Solo & Established Teams - No Touch Freight",
+    "Location": "East Jenkins, KY",
+    "Employer": "J. Boren & Sons Trucking",
+    "Wage": "0",
+    "Url": "https://www.linkedin.com/jobs/view/4368117106/",
     "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
     "SOC": "53-3032.00"
   },
   {
     "Job Title": "CDL-A Truck Driver",
-    "Location": "Bethany, Kentucky",
+    "Location": "Dryhill, Kentucky",
     "Employer": "McElroy Truck Lines Inc",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4356644362/",
+    "Url": "https://www.linkedin.com/jobs/view/4356475565/",
     "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
     "SOC": "53-3032.00"
   },
   {
-    "Job Title": "Company Driver - CDL-A - Home Every Friday",
-    "Location": "Meads, KY",
+    "Job Title": "CDL-A Truck Driver",
+    "Location": "Haldeman, Kentucky",
     "Employer": "McElroy Truck Lines Inc",
     "Wage": "0",
-    "Url": "https://www.linkedin.com/jobs/view/4364611316/",
+    "Url": "https://www.linkedin.com/jobs/view/4356545601/",
     "Occupation Name": "Heavy and Tractor-Trailer Truck Drivers",
     "SOC": "53-3032.00"
+  },
+  {
+    "Job Title": "In Home Caregiver",
+    "Location": "Middlesboro, KY 40965, USA",
+    "Employer": "The Mentor Network",
+    "Wage": "$29,120",
+    "Url": "https://jobs.dayforcehcm.com/en-US/tmn/CANDIDATEPORTAL/jobs/546348",
+    "Occupation Name": "Personal Care Aides",
+    "SOC": "31-1122.00"
+  },
+  {
+    "Job Title": "Substitute School Nurse",
+    "Location": "316 S Mayo Trail, Pikeville, KY 41501",
+    "Employer": "Pike County Public Schools",
+    "Wage": "0",
+    "Url": "https://www.applitrack.com/pikecountyps/onlineapp/jobpostings/view.asp?internaltransferform.Url=&all=1&AppliTrackJobId=193&AppliTrackLayoutMode=detail&AppliTrackViewPosting=1",
+    "Occupation Name": "Registered Nurses",
+    "SOC": "29-1141.00"
   }
 ]
 }
